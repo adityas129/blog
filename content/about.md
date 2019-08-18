@@ -8,5 +8,5 @@ description = "about"
 
 
 
-Besides working on projects, I thoroughly enjoy playing sports (I'm game for just about everything save for maybe bull-riding), reading, riffing with friends about crazy ideas, and pretending to know how to play the tabla. 
+Besides working on projects, I thoroughly enjoy playing sports (I'm game for just about everything save for maybe bull-riding), reading, riffing with friends about crazy ideas, and pretending to play the tabla. 
 
