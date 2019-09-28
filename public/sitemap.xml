@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://adityas129.github.io/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://adityas129.github.io/posts/posts/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adityas129.github.io/posts/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://adityas129.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityas129.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://adityas129.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityas129.github.io/now/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityas129.github.io/habits/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityas129.github.io/meditations/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityas129.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityas129.github.io/questions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityas129.github.io/reading/</loc>
+  </url>
+  
+  <url>
+    <loc>https://adityas129.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

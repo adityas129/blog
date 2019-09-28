@@ -1,0 +1,127 @@
+baseurl = "https://adityas129.github.io" # Hostname (and path) to the root.
+title = "Adi Sharma" # Site title.
+theme = "coder-portfolio1" # Set the theme.
+languagecode = "en" # The site’s language code used to generate RSS.
+defaultcontentlanguage = "en" # The default content language.
+
+paginate = 10 # Default number of pages per page in pagination.
+
+pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+pygmentsUseClasses = true # new add
+
+[params] # theme parameters
+    author = "Aditya Sharma" # Author's name.
+    info = "Machine Learning Engineer" # Author's job title or info.
+    description = "Aditya Sharma's personal website" # Site description.
+    keywords = "blog,developer,personal, portfolio, scientist, webspace" # Site keywords.
+    avatarurl = "images/avi.jpg" # Contain the path of the optionnal avatar in the static folder.
+
+    footercontent = "Made with &#9825; under &#9728; with lots of 🍉 " # Add footer content
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = false
+    hideCopyright = false
+
+    # Custom CSS
+    custom_css = ["css/foo.css"]
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    # Bottom sns share
+    # snsShare = true # new add
+    # Popular sns share
+    # if you want add sns. please message!
+    # enableTwitterShare = true  # new add
+    # enableFacebookShare = true # new add
+    # enableHatenaShare = true   # new add
+    # enableLineShare = true     # new add
+
+    thumbnail = "images/tn.png" # default sns thumbnail
+
+    # Multilanguage mode
+    langseparator = "|" # Separates menus from language selectors when site is multilingual.
+
+# Social links
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/adityas129" 
+[[params.social]]
+    name = "Devpost"
+    weight = 2
+    url = "https://devpost.com/adityas129/" #devpost
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/adityas129/" 
+[[params.social]]
+    name = "Twitter"
+    weight = 4
+    url = "https://twitter.com/adityas129/"
+[[params.social]]
+    name = "Resume"
+    weight = 5
+    url = "files/resume.pdf"
+[[params.social]]
+    name = "Medium"
+    weight = 6
+    url = "https://medium.com/@adityas129" #medium
+[[params.social]]
+    name = "Goodreads"
+    weight = 7
+    url = "https://www.goodreads.com/user/show/85547977-aditya-sharma" #goodreads 
+
+
+
+
+
+[[menu.main]]
+    name = "About"
+    weight = 1.0
+    url = "about"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 2.0
+    url = "posts"
+
+[[menu.main]]
+    name = "Projects"
+    weight = 3
+    url = "projects"
+
+[[menu.main]]
+    name = "Readings"
+    weight = 4
+    url = "reading"
+
+[[menu.main]]
+    name = "Meditations"
+    weight = 5
+    url = "meditations"
+
+[[menu.main]]
+    name = "Habits"
+    weight = 6
+    url = "habits"
+
+[[menu.main]]
+    name = "Questions"
+    weight = 7
+    url = "questions"
+
+[[menu.main]]
+    name = "Now"
+    weight = 8
+    url = "now"
+
+[[menu.main]]
+    name = "Contact me"
+    weight = 9
+    url = "contact"
