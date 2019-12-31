@@ -1,4 +1,4 @@
-baseurl = "https://adityas129.github.io" # Hostname (and path) to the root.
+baseurl = "" # Hostname (and path) to the root.
 title = "Adi Sharma" # Site title.
 theme = "hugo-coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
