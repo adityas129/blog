@@ -1,4 +1,4 @@
-baseurl = "" # Hostname (and path) to the root.
+baseurl = "https://adityas129.github.io" # Hostname (and path) to the root.
 title = "Adi Sharma" # Site title.
 theme = "coder-portfolio1" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
@@ -13,7 +13,7 @@ pygmentsUseClasses = true # new add
 
 [params] # theme parameters
     author = "Aditya Sharma" # Author's name.
-    info = "Aspiring Machine Learning Engineer" # Author's job title or info.
+    info = "Aspiring ML engineer" # Author's job title or info.
     description = "Aditya Sharma's personal website" # Site description.
     keywords = "blog,developer,personal, portfolio, scientist, webspace" # Site keywords.
     avatarurl = "images/avi.jpg" # Contain the path of the optionnal avatar in the static folder.
