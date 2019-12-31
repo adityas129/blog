@@ -8,13 +8,10 @@ description = "What's up my life?"
 What's up my life right now?
 
 #### Work 
-* August 12th, '19 : Battled with personal portfolio 
-* Sept. 3rd, '19: Holy cow, work ended and when school started, life got soooo busy!
-* Sept. 13th, '19: Went to HackMIT and won the hackathon!
-    ** Harvard is really cool in terms of the building
-
-
+* T'has been a very relaxing holidays break thus far. I was able to build upon some really good habits and get into some good routines. Hoping to take that and continue that in 2020 to start the decade right! 201x has been fantastic but I am soo ready for 202x!!!!
+* Taking this coop off(Winter 2020) to learn how to make products and ship them and bring them to life 
 
 #### Life Experiences
-* August 10th, '19 : Went out with Matt and Tony to Taste of Danforth!! Ate a few spinach pies, smashed some plates and yelled OPA and had a whole bunch of fun! We then went to Trinity Bellwoods to play Ulti + Soccer - in an attempt to bicycle kick, almost had a concussion lol. Finally capped the night off by going to a comedy show headlined by Keith Pedro - also tons of fun! All in all, a great day. 
-* Sept 15th, '19: Stayed up for 40 hrs!!!!
+* Played a bunch of board games with fam and kicked their butt while doing it. Scrabble is sooo much fun!!! This was much needed as I hadn't been home for a year and haven't had time to connect with the fam for a long time. Felt very good to connect after a long time  
+* There is a lot of things to learn from Monopoly. 
+* Maintaining relationships are so important. At the end of the day, that's what it's all about right?
