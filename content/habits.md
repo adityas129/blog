@@ -12,11 +12,11 @@ Habits are really powerful tools that when utilized properly, have exponential r
 
 
 
-​	<strong>0.99<sup>365</sup> = 1	</strong>
+​	<strong>0.99<sup>365</sup> = 0.03	</strong>
 
 ​	<strong>1<sup>365</sup> = 1</strong>
 
-​	<strong>1.01<sup>365</sup> = 1</strong>
+​	<strong>1.01<sup>365</sup> = 37.8</strong>
 
 
 
