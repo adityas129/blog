@@ -5,9 +5,9 @@ description = "projects"
 +++
 
 
-* Brain Hardware: Step away, Neuralink. Currently in incubation :)
+* Brain Hardware: In progress - learning more about BCI as I go at it :)
 
-* Nearer: Nearby Object Detector for Bicycles using Ultrasonic sensors 
+* [Nearer](https://github.com/adityas129/298): Nearby Object Detector for Bicycles using Ultrasonic sensors 
 
 * [LabelLearn](https://devpost.com/software/doway): This project aims to enable a labeller to be consistent with both their fellow labelers and their past self while seeing the live class distribution of the dataset.
 
