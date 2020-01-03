@@ -13,5 +13,5 @@ description = "Ponderin' & Musin' "
 * Is specialization in technical skills worth it or is being a generalist more aligned for my goals? 
     ** If generalization is the answer, how do I beocme the best generalist that I can be? 
 
-* How to make deepr connections with people around me? 
+* How to make deeper connections with people around me? 
 
