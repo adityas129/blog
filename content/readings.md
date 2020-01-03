@@ -6,9 +6,15 @@ description = "readings"
 
 
 # books 
-List of all books that I have read and their reviews
 
 
+List of Books I'm currently reading
+
+* Tribes of Mentors 
+* Can't Hurt Me 
+* Atomic Habits 
+
+List of all books that I have read and would recommend 
 
 * Skin in the Game by Taleb
 * Meditations by Aurelius
@@ -22,21 +28,14 @@ List of all books that I have read and their reviews
 * Ego is the Enemy 
 
 
-List of Books I want to re-read
 
-* Zero to One
-* Deep Work
-* So Good They Can't Ignore You 
-* Meditations by Aurelius
-* Bhagvat Gita
-
-
-
-Book Wish list
-
+Interesting book lists 
 
 * Black Swan by Taleb
 
-* [Everything here](https://patrickcollison.com/bookshelf)
+* [Patrick Collison](https://patrickcollison.com/bookshelf)
 
-* [And here](https://reading.supply/post/4ad4c85c-3181-4c89-84ff-d6b383e0666d)
+* [Dan Wang](https://danwang.co/books/)
+
+* [Jasmine Wang](https://reading.supply/post/4ad4c85c-3181-4c89-84ff-d6b383e0666d)
+
