@@ -1,0 +1,12 @@
++++ 
+draft = false
+date = "2020-01-03"
+title = "Hello World!"
+slug = "posts" 
+categories = [future, coop, work]
+thumbnail = "{{ .Site.Params.thumbnail }}"
+description = "First Post"
++++
+
+Winter 2020 Coop
+

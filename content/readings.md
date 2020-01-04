@@ -4,17 +4,16 @@ slug = "reading"
 description = "readings"
 +++
 
-
-# books 
-
-
-List of Books I'm currently reading
+#### List of Books I'm currently reading
 
 * Tribes of Mentors 
 * Can't Hurt Me 
 * Atomic Habits 
+&nbsp;
 
-List of all books that I have read and would recommend 
+
+
+#### List of all books that I have read and would recommend 
 
 * Skin in the Game by Taleb
 * Meditations by Aurelius
@@ -26,10 +25,11 @@ List of all books that I have read and would recommend
 * So Good They Can't Ignore You 
 * Zero to One 
 * Ego is the Enemy 
+&nbsp;
 
 
 
-Interesting book lists 
+#### Interesting book lists 
 
 * Black Swan by Taleb
 

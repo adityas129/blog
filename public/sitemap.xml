@@ -3,66 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>asharma.me/</loc>
+    <loc>/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>asharma.me/posts/posts/</loc>
+    <loc>/posts/posts/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>asharma.me/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>asharma.me/empty/</loc>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>asharma.me/about/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>asharma.me/categories/</loc>
-    <priority>0</priority>
+    <loc>/now/</loc>
   </url>
   
   <url>
-    <loc>asharma.me/contact/</loc>
+    <loc>/habits/</loc>
   </url>
   
   <url>
-    <loc>asharma.me/now/</loc>
+    <loc>/meditations/</loc>
   </url>
   
   <url>
-    <loc>asharma.me/habits/</loc>
+    <loc>/projects/</loc>
   </url>
   
   <url>
-    <loc>asharma.me/meditations/</loc>
+    <loc>/questions/</loc>
   </url>
   
   <url>
-    <loc>asharma.me/projects/</loc>
+    <loc>/reading/</loc>
   </url>
   
   <url>
-    <loc>asharma.me/questions/</loc>
-  </url>
-  
-  <url>
-    <loc>asharma.me/reading/</loc>
-  </url>
-  
-  <url>
-    <loc>asharma.me/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

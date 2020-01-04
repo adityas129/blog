@@ -4,6 +4,7 @@ slug = "meditations"
 description = "meditations"
 +++
 
+
 This is a space where I just note down random shit that comes to me: 
 
 * Freedom in this day and age is directly proportional to courage 

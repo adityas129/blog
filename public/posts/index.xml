@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Adi Sharma</title>
-    <link>asharma.me/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Adi Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="asharma.me/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World!</title>
-      <link>asharma.me/posts/posts/</link>
+      <link>/posts/posts/</link>
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>asharma.me/posts/posts/</guid>
+      <guid>/posts/posts/</guid>
       <description>Heya! This is my little corner of the internet :) I hope you take a gander around and explore!</description>
     </item>
     
