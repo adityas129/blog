@@ -7,6 +7,7 @@ slug = "habits"
 description = "habits"
 
 +++
+&nbsp;
 
 Habits are really powerful tools that when utilized properly, have exponential returns. When it comes to this topic, something that I try to keep at the back of my mind is just how much could be accomplished in a year  if everyday, I choose to be 1% better than I was yesterday. This, of course, applies to the contrary as well:
 

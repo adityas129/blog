@@ -57,26 +57,17 @@ pygmentsUseClasses = true # new add
     weight = 2
     url = "https://devpost.com/adityas129/" #devpost
 [[params.social]]
-    name = "LinkedIn"
+    name = "Resume"
     weight = 3
+    url = "files/resume.pdf"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 4
     url = "https://www.linkedin.com/in/adityas129/" 
 [[params.social]]
     name = "Twitter"
-    weight = 4
-    url = "https://twitter.com/adityas129/"
-[[params.social]]
-    name = "Resume"
     weight = 5
-    url = "files/resume.pdf"
-[[params.social]]
-    name = "Medium"
-    weight = 6
-    url = "https://medium.com/@adityas129" #medium
-[[params.social]]
-    name = "Goodreads"
-    weight = 7
-    url = "https://www.goodreads.com/user/show/85547977-aditya-sharma" #goodreads 
-
+    url = "https://twitter.com/adityas129/"
 
 
 
@@ -120,6 +111,11 @@ pygmentsUseClasses = true # new add
     name = "Now"
     weight = 8
     url = "now"
+
+[[menu.main]]
+    name = "Links"
+    weight = 8
+    url = "links"
 
 [[menu.main]]
     name = "Contact me"

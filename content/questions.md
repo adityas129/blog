@@ -27,3 +27,7 @@ Random questions that I think I can probably answer once I put a little more tho
 
 * Why is it so hard to define words and why does the human mind (or mine at least) understand easier by example?
     - I encountered this when trying to define what value meant? What is value? When I sat down to first try to define the word, I struggled with coming up the words to do so. However, my brain was somehow able to contextualize the word and was able to grasp the concept by virtue of multiple examples. Eg. it became easier to understand what value meant when I was reminded of using/hearing phrases such as "This object is very valuable to me" or "Please leave your valuables before stepping on-board"
+
+&nbsp;
+
+If you think you have interesting takes/points/resources with regards to any of the topics above, [get in touch!](https://www.asharma.me/contact/)
