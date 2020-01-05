@@ -10,4 +10,4 @@ description = "Coop #5"
 
 Why I decided to take this co-op off as opposed to working at different companies? 
 
-Coming soon :)
+Coming soon on Jan 5th, 2019:)
