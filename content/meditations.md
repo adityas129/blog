@@ -5,7 +5,7 @@ description = "meditations"
 +++
 
 
-This is a space where I just note down random shit that comes to me: 
+This is a space where I just note down random ideas and thoughts that come to me: 
 
 * Freedom in this day and age is directly proportional to courage 
 * Essentialism is the key to progress 
