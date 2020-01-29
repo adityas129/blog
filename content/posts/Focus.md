@@ -23,3 +23,4 @@ As my projects demand me to become more technical and go into heads down build m
 * Meditate/visualize for 2 mins before starting work and allow myself to believe 
 
 
+What are your favourite ways to get in the zone? :)
