@@ -2,7 +2,7 @@
 draft = false
 date = "2020-01-28"
 title = "Focus"
-slug = "posts" 
+slug = "Focus" 
 categories = []
 thumbnail = "{{ .Site.Params.thumbnail }}"
 description = "Importance of focus"
