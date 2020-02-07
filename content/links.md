@@ -14,3 +14,9 @@ Over the years, while exploring on the internet, I come across pages/sites that 
 
 * [Lots of deep dives into interesting topics](https://danwang.co/)
 &nbsp;
+
+
+<!-- * [Cool person with cool suggestions] (s) -->
+
+* [A cool collection of goodies ](https://jameshk.com/)
+
