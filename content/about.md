@@ -9,7 +9,7 @@ description = "about"
 
 &nbsp;
 
-Besides working on projects, I thoroughly enjoy playing sports (I'm game for just about everything save for maybe bull-riding), reading(check out my reading list), riffing with friends about crazy ideas,tinkering with hardware and pretending to play the tabla. 
+Besides working on projects, I thoroughly enjoy playing sports (I'm game for just about everything save for maybe bull-riding), reading(check out my reading list), riffing with friends about crazy ideas,tinkering with hardware, watching comedy and pretending to play the tabla. 
 
 &nbsp;
 

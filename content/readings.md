@@ -6,9 +6,9 @@ description = "readings"
 
 #### List of Books I'm currently reading
 
-* Tribes of Mentors 
-* Can't Hurt Me 
-* Atomic Habits 
+* Dune
+* Courage to be Disliked  
+* Lean Startup 
 &nbsp;
 
 
@@ -29,9 +29,8 @@ description = "readings"
 
 
 
-#### Interesting book lists 
+#### Interesting book lists that I sometimes refer to 
 
-* Black Swan by Taleb
 
 * [Patrick Collison](https://patrickcollison.com/bookshelf)
 

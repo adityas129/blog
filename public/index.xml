@@ -6,10 +6,28 @@
     <description>Recent content on Adi Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Focus</title>
+      <link>/posts/focus/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/focus/</guid>
+      <description>Focus As my projects demand me to become more technical and go into heads down build mode, I find that there is a paradigm shift that happens within me to help me focus and be productive. I enter into a &amp;ldquo;meditative like&amp;rdquo; state where I block everything out and just focus on the dev work/task ahead. Here are a few things that I do in particular to help me out with this:</description>
+    </item>
+    
+    <item>
+      <title>Interact Application</title>
+      <link>/posts/interact-application/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/interact-application/</guid>
+      <description>So recently, I applied to a program that I had heard great things about called Interact. I had heard really good things about it from various people that I admired and decided to apply. The application process was actually super fun and I found the questions to be very incisive and authentic. This was one of the few applications that I actually enjoyed finishing and even if I get in or not, I&amp;rsquo;m grateful I applied!</description>
+    </item>
     
     <item>
       <title>Winter 2020</title>
@@ -55,19 +73,8 @@ Why I took Winter 2020 off? -- Why I took Winter 2020 off? For the past three ye
       
       <guid>/now/</guid>
       <description>What&amp;rsquo;s up my life right now?
-Work  T&amp;rsquo;has been a very relaxing holidays break thus far. I was able to build upon some really good habits and get into some good routines. Hoping to take that and continue that in 2020 to start the decade right! 201x has been fantastic but I am soo ready for 202x!!!! Taking this coop off(Winter 2020) to learn how to make products and ship them and bring them to life  Life Experiences  Played a bunch of board games with fam and kicked their butt while doing it.</description>
-    </item>
-    
-    <item>
-      <title>Habits</title>
-      <link>/habits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/habits/</guid>
-      <description>&amp;nbsp;
-Habits are really powerful tools that when utilized properly, have exponential returns. When it comes to this topic, something that I try to keep at the back of my mind is just how much could be accomplished in a year if everyday, I choose to be 1% better than I was yesterday. This, of course, applies to the contrary as well:
-​ 0.99365 = 0.03 
-​ 1365 = 1</description>
+Last Updated: Jan 28th 2020
+Work  Currently working on two projects: building a tool to reinvent the way we present and a tool to boost productivity (I know what you are thinking, not another one of these - i swear this is different) Have not progressed much on the ML learning side of the things - hope to fix that soon  Life Experiences  real talk : GP seems kinda boring now that most of the people my age are not in town.</description>
     </item>
     
     <item>
@@ -80,7 +87,7 @@ Habits are really powerful tools that when utilized properly, have exponential r
  How to Build a Biotech &amp;nbsp;
  Cool Waterloo dev person &amp;nbsp;
  Lots of deep dives into interesting topics &amp;nbsp;
-  </description>
+   A cool collection of goodies   </description>
     </item>
     
     <item>
