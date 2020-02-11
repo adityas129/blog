@@ -36,4 +36,4 @@ Over the years, while exploring on the internet, I come across pages/sites that 
 * [Will Robbins: Runs Contrary - has  alot of posts on student entrepreneurship!](https://willrobbins.org/)
 <!-- * [Cool person with cool suggestions] (s) -->
 
-
+* [Hot takes](https://pjrvs.com/articles)
