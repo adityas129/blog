@@ -6,10 +6,19 @@
     <description>Recent content on Adi Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interact Application</title>
+      <link>/posts/interact-application/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/interact-application/</guid>
+      <description>So recently, I applied to a program that I had heard great things about called Interact. The application itself was actually super fun to doand I found the questions to be very incisive and thought-provoking. This was one of the very few applications (maybe 2-3) in my entire life that I actually enjoyed finishing and even if I get in or not, I&amp;rsquo;m grateful I applied! I decided to make the answer to some of the questions public as I think they do a decent job of expressing who I am and things I care about.</description>
+    </item>
     
     <item>
       <title>Focus</title>
@@ -18,15 +27,6 @@
       
       <guid>/posts/focus/</guid>
       <description>Focus As my projects demand me to become more technical and go into heads down build mode, I find that there is a paradigm shift that happens within me to help me focus and be productive. I enter into a &amp;ldquo;meditative like&amp;rdquo; state where I block everything out and just focus on the dev work/task ahead. Here are a few things that I do in particular to help me out with this:</description>
-    </item>
-    
-    <item>
-      <title>Interact Application</title>
-      <link>/posts/interact-application/</link>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/interact-application/</guid>
-      <description>So recently, I applied to a program that I had heard great things about called Interact. I had heard really good things about it from various people that I admired and decided to apply. The application process was actually super fun and I found the questions to be very incisive and authentic. This was one of the few applications that I actually enjoyed finishing and even if I get in or not, I&amp;rsquo;m grateful I applied!</description>
     </item>
     
     <item>
@@ -49,6 +49,51 @@ Why I took Winter 2020 off? -- Why I took Winter 2020 off? For the past three ye
     </item>
     
     <item>
+      <title></title>
+      <link>/posts/attachment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/attachment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/hardwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hardwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/jealousy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/jealousy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/joy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/joy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/relationships/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/relationships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -63,7 +108,9 @@ Why I took Winter 2020 off? -- Why I took Winter 2020 off? For the past three ye
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>Want to reach out? Feel free to contact me at adityas129@gmail.com or message me on Twitter. I&amp;rsquo;m always down for a conversation :)</description>
+      <description>Want to reach out? Feel free to contact me at adityas129@gmail.com or message me on Twitter. I&amp;rsquo;m always down for a conversation :)
+
+PS: Also, thanks for stopping by, here&amp;rsquo;s a cookie for you </description>
     </item>
     
     <item>
@@ -83,11 +130,11 @@ Work  Currently working on two projects: building a tool to reinvent the way we 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/links/</guid>
-      <description>Over the years, while exploring on the internet, I come across pages/sites that really captivate me and capture my curiosity. I wish to keep a list of all these places for future reference and for the world to see and explore:
- How to Build a Biotech &amp;nbsp;
- Cool Waterloo dev person &amp;nbsp;
- Lots of deep dives into interesting topics &amp;nbsp;
-   A cool collection of goodies   </description>
+      <description>Note: This is a living document &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+Over the years, while exploring on the internet, I come across pages/sites that really captivate me and capture my curiosity. I wish to keep a list of all these places for future reference and for the world to see and explore:
+ Celine: How to Build a Biotech &amp;nbsp;
+ Tristan Hume: Cool Waterloo developer! &amp;nbsp;
+ Dan Wang: Lots of deep dives into interesting topics &amp;nbsp;</description>
     </item>
     
     <item>
@@ -129,7 +176,8 @@ Work  Currently working on two projects: building a tool to reinvent the way we 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/reading/</guid>
-      <description>List of Books I&amp;rsquo;m currently reading  Tribes of Mentors Can&amp;rsquo;t Hurt Me Atomic Habits &amp;nbsp;  List of all books that I have read and would recommend  Skin in the Game by Taleb Meditations by Aurelius Bhagvat Gita Shoe Dog Coming Storm Ender&amp;rsquo;s Game Deep Work So Good They Can&amp;rsquo;t Ignore You Zero to One Ego is the Enemy &amp;nbsp;  Interesting book lists  Black Swan by Taleb</description>
+      <description>List of Books I&amp;rsquo;m currently reading  Dune Courage to be Disliked
+ Lean Startup &amp;nbsp;  List of all books that I have read and would recommend  Skin in the Game by Taleb Meditations by Aurelius Bhagvat Gita Shoe Dog Coming Storm Ender&amp;rsquo;s Game Deep Work So Good They Can&amp;rsquo;t Ignore You Zero to One Ego is the Enemy &amp;nbsp;  Interesting book lists that I sometimes refer to  Patrick Collison</description>
     </item>
     
   </channel>

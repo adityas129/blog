@@ -16,21 +16,24 @@ description = " interesting links"
 
 Over the years, while exploring on the internet, I come across pages/sites that really captivate me and capture my curiosity. I wish to keep a list of all these places for future reference and for the world to see and explore: 
 
-* [How to Build a Biotech](https://www.celinehh.com/biotech)
+* [Celine: How to Build a Biotech](https://www.celinehh.com/biotech)
 &nbsp;
 
-* [Cool Waterloo dev person](https://thume.ca/)
+* [Tristan Hume: Cool Waterloo developer!](https://thume.ca/)
 &nbsp;
 
-* [Lots of deep dives into interesting topics](https://danwang.co/)
+* [Dan Wang: Lots of deep dives into interesting topics](https://danwang.co/)
 &nbsp;
 
-* [A cool compendium of goodies on the topic of tools for thought](https://jameshk.com/)
+* [James Hill-Khuranna: A cool compendium of goodies on the topic of tools for thought](https://jameshk.com/)
 &nbsp;
 
-* [Startups holy grail resources](https://danromero.org/canon.html)
+* [Dan Romero: Startups holy grail resources](https://danromero.org/canon.html)
 &nbsp;
 
+* [Daniel Gross: Really really smart person with a super interesting life-story](https://dcgross.com/)
+
+* [Will Robbins: Runs Contrary - has  alot of posts on student entrepreneurship!](https://willrobbins.org/)
 <!-- * [Cool person with cool suggestions] (s) -->
 
 
