@@ -36,4 +36,10 @@ Over the years, while exploring on the internet, I come across pages/sites that 
 * [Will Robbins: Runs Contrary - has  alot of posts on student entrepreneurship!](https://willrobbins.org/)
 <!-- * [Cool person with cool suggestions] (s) -->
 
+* [Fun Concepts](https://www.notion.so/Books-f95c42ea1c6b4f67a6ad219f327ac402)
+
 * [Hot takes](https://pjrvs.com/articles)
+
+* [Nadia Eghbal: Really cool open source person](https://nadiaeghbal.com/)
+
+* [Philip Guo: Prolific Prof](http://www.pgbovine.net/)
