@@ -16,5 +16,4 @@ PS: Also, thanks for stopping by, here's a cookie for you
 <br />
 
 ![alt text](https://media.giphy.com/media/XGUbC0v51YzuGkN7zw/source.gif "Cookie")
-![alt text](https://drive.google.com/drive/u/0/my-drive "Cookie")
 
