@@ -8,6 +8,8 @@ description = "Ponderin' & Musin' "
 Questions that I struggle with to this day
 
 * Is a calm mind better or one with a bunch of crazy ideas? 
+* How should I best engineer my environment to optimize growth + development?
+* [What are my scales and what is the best way to practice my scales?] (https://marginalrevolution.com/marginalrevolution/2019/07/learn-like-an-athlete-knowledge-workers-should-train.html)
 * How do I manage information intake? 
 * What aspects of my identity are worth preserving? 
 * How do I conquer the mind and it's primal needs? 

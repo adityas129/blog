@@ -8,7 +8,8 @@ description = "readings"
 
 * Dune
 * Courage to be Disliked  
-* Lean Startup 
+* Letters to a Young Contrarian
+
 &nbsp;
 
 
@@ -25,6 +26,9 @@ description = "readings"
 * So Good They Can't Ignore You 
 * Zero to One 
 * Ego is the Enemy 
+* Lean Startup 
+* Founders at Work
+
 &nbsp;
 
 
