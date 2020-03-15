@@ -2,7 +2,11 @@
 <nav class="navigation">
   <section class="container">
     <a class="navigation-title" href="{{ print "/" | relLangURL }}">{{ .Site.Title }}</a>
-
+    <div style="display:none">
+      {{ template "_internal/google_analytics.html" . }}
+      {{ template "_internal/google_analytics_async.html" . }}
+      {{ partials "google/analytics" . }}
+    </div>
     <input type="checkbox" id="menu-control"/>
     <label class="menu-mobile {{ if $.Site.Params.rtl }} float-left {{ else }} float-right {{ end }}" for="menu-control">
       <span class="btn-mobile {{ if $.Site.Params.rtl }} float-left {{ else }} float-right {{ end }}">&#9776;</span>
@@ -42,7 +46,3 @@
     </label>
   </section>
 </nav>
-<div style="display:none">
-{{ partials "google/analytics" . }}
-
-</div>
