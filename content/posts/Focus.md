@@ -8,8 +8,6 @@ thumbnail = "{{ .Site.Params.thumbnail }}"
 description = "Importance of focus"
 +++
 
-# Focus
-
 
 As my projects demand me to become more technical and go into heads down build mode, I find that there is a paradigm shift that happens within me to help me focus and be productive. I enter into a "meditative like" state where I block everything out and just focus on the dev work/task ahead. Here are a few things that I do in particular to help me out with this: 
 
