@@ -1,8 +1,8 @@
 +++ 
 draft = false
-date = "2020-04-23"
+date = "2020-04-29"
 title = "Thank you Teachers"
-slug = "X" 
+slug = "tyty" 
 categories = []
 thumbnail = "{{ .Site.Params.thumbnail }}"
 description = ""
