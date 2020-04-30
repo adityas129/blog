@@ -13,8 +13,8 @@ As I spend my time pent up at home during quarantine, I came to learn that one o
 <br/>
 
 * Kindergarten to Grade 6 (NK Bagrodia Public School in Delhi, India): 
-    1. Usha Ma'am - Maths Grade 5
-    2. Seema Ma'am - Music Grade 2-4
+    1. Seema Ma'am - Music Grade 2-4
+    2. Usha Ma'am - Maths Grade 5
 
 * Grade 7 to Grade 9 (Crystal Park Public School in Grande Prairie, Alberta):
     1. Ms. Bellamy - English + Social Grade 7 + 8
@@ -37,11 +37,11 @@ As I spend my time pent up at home during quarantine, I came to learn that one o
 
 <br/>
 
-A little anecdote: When I came to Canada in Grade 7 from India, my English was pretty bad. I could speak but very choppily. I think I ended up getting somewhere in the 50s/60s in Grade 7 for English. I was putting in the effort and trying so hard but didn't really know how to get better. Finally, extremely dismayed, I went to my teacher, Ms. Bellamy explaining my predicament and conveying how much I want to get better. Together, me and her devised a plan for me to get better everyday. So for the entirity of Grade 8, every day after school, I would go to her to submit my homework from the previous day and collect new homework. She would mark my homework and I would try to improve based on that feedback for the next day. The homework would range from Grammar to Vocab to Speaking to Pronounciation. These sessions taught me so so much - from resilience to discipline to faith to feedback. Oh yeah - and English! Most importantly, I think it gave me a sense of confidence in the fact that I can learn just about anything. 
+A little anecdote: When I came to Canada in Grade 7 from India, my English was pretty bad. I could speak but very choppily. I think I ended up getting somewhere in the 50s/60s in Grade 7 for English. I was putting in the effort and trying so hard but didn't really know how to get better. Finally, extremely dismayed, I went to my teacher, Ms. Bellamy explaining my predicament and conveying how much I want to get better. Together, her and I devised a plan for me to get better everyday. So for the entirity of Grade 8, every day after school, I would go to her to submit my homework from the previous day and collect new homework. She would mark my homework and I would try to improve based on that feedback for the next day. The homework would range from Grammar to Vocab to Speaking to Pronounciation. These sessions taught me so so much - from resilience to discipline to faith to feedback. Oh yeah - and English! Most importantly, I think it gave me a sense of confidence in the fact that I can learn just about anything. 
 
-All this happened because Ms. Bellamy decided to take a chance on me and do this thing. Noone knew about it. She didn't tell anyone. It was just something that we did. It was not until much later that I realized just how much that little thing that we did changed me. 
+All this happened because Ms. Bellamy decided to take a chance on me and do this thing. Nobody knew about it. It was just something that we did. It was not until much later that I realized just how much that little thing this daily excercise changed me. 
 
-Ms. Bellamy, thank you. For real. Thank you for taking that chance on me. Thank you for spending all those extra hours after school with me - even though you absolutely didn't have to and probably had so many things going on outside of school. Thank you for introucing me to reading. It was through you that I first started to fall in love with reading. You changed my life. 
+Ms. Bellamy, thank you. For real. Thank you for taking that chance on me. Thank you for spending all those extra hours after school with me - even though you absolutely didn't have to and probably had so many things going on outside of school. Thank you for introducing me to reading. It was through you that I first started to fall in love with reading. You changed my life. 
 
 I have these anecdotes for every teacher from the list above. They all have shaped me up to become the person I am today. I wouldn't be where I am without them. 
 
