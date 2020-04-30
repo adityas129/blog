@@ -8,6 +8,7 @@ description = "readings"
 
 * Dune
 * Courage to be Disliked  
+* Talking to Strangers
 * Letters to a Young Contrarian
 
 &nbsp;
@@ -16,18 +17,22 @@ description = "readings"
 
 #### List of all books that I have read and would recommend 
 
-* Skin in the Game by Taleb
-* Meditations by Aurelius
-* Bhagvat Gita
-* Shoe Dog
-* Coming Storm
-* Ender's Game
-* Deep Work
-* So Good They Can't Ignore You 
-* Zero to One 
-* Ego is the Enemy 
-* Lean Startup 
-* Founders at Work
+* __Skin in the Game__ by Taleb
+* __Meditations__ by Aurelius
+* __David and Goliath__ by Gladwell (with the note that this is probably most effective to youngins' out there who feel like they are outliers (another malcolm gladwell book that is a decent read) - this book came to me at a time when I felt this and it gave me the permission to dream)
+    - NB: The writer wants the reader to know that the writer felt like a badass when they used nested brackets
+* __Bhagvat Gita__
+* __Shoe Dog__ by Knight
+* __Coming Storm__ by Lewis
+* __Ender's Game__ by Card
+* __Deep Work__ by Newport
+* __So Good They Can't Ignore You__ by Newport
+* __Zero to One__ by Thiel
+* __Ego is the Enemy__ by Holiday
+* __Lean Startup__ by Ries
+* __Founders at Work__ by Livingston
+* __All Enid Blyton books (I used to be obsessed with them as a kid)
+* __Great Gatsby__ by Fitzgerald (it was assigned reading in english in high school but had a lasting impact on me - thanks Mr. Chiba :p)
 
 &nbsp;
 
@@ -40,5 +45,4 @@ description = "readings"
 
 * [Dan Wang](https://danwang.co/books/)
 
-* [Jasmine Wang](https://reading.supply/post/4ad4c85c-3181-4c89-84ff-d6b383e0666d)
 
