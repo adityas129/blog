@@ -6,10 +6,29 @@
     <description>Recent content in Posts on Adi Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thank you Teachers</title>
+      <link>/posts/tyty/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tyty/</guid>
+      <description>As I spend my time pent up at home during quarantine, I came to learn that one of my chemistry teachers back in high school moved down the street from our place! That was very cool and sent me down a memory lane and a flashback of high school. This teacher in particular was somebody that I always had a great time learning from. In addition to teaching Chemistry in an awesome way, she was always open to talk about life in general and as teenagers learning to take baby-steps into adulthood, these riffing sessions were so interesting.</description>
+    </item>
+    
+    <item>
+      <title>What I want to be doing in X years</title>
+      <link>/posts/x/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/x/</guid>
+      <description>Ahhh the age old question. The deviations of this, Where do you see yourself in x years also attempts to pry an answer akin to what this question does. It has always been weird to me. So for once and for all, I decided to write about my answer to this.
+At this given time, the heuristics that I use to decide what I want to work on revolves around three main factors: curiosity/enjoyment, people I am working with, and positive impact on the world.</description>
+    </item>
     
     <item>
       <title>Interact Application</title>
@@ -26,7 +45,7 @@
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/focus/</guid>
-      <description>Focus As my projects demand me to become more technical and go into heads down build mode, I find that there is a paradigm shift that happens within me to help me focus and be productive. I enter into a &amp;ldquo;meditative like&amp;rdquo; state where I block everything out and just focus on the dev work/task ahead. Here are a few things that I do in particular to help me out with this:</description>
+      <description>As my projects demand me to become more technical and go into heads down build mode, I find that there is a paradigm shift that happens within me to help me focus and be productive. I enter into a &amp;ldquo;meditative like&amp;rdquo; state where I block everything out and just focus on the dev work/task ahead. Here are a few things that I do in particular to help me out with this:</description>
     </item>
     
     <item>

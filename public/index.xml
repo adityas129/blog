@@ -6,10 +6,29 @@
     <description>Recent content on Adi Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thank you Teachers</title>
+      <link>/posts/tyty/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tyty/</guid>
+      <description>As I spend my time pent up at home during quarantine, I came to learn that one of my chemistry teachers back in high school moved down the street from our place! That was very cool and sent me down a memory lane and a flashback of high school. This teacher in particular was somebody that I always had a great time learning from. In addition to teaching Chemistry in an awesome way, she was always open to talk about life in general and as teenagers learning to take baby-steps into adulthood, these riffing sessions were so interesting.</description>
+    </item>
+    
+    <item>
+      <title>What I want to be doing in X years</title>
+      <link>/posts/x/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/x/</guid>
+      <description>Ahhh the age old question. The deviations of this, Where do you see yourself in x years also attempts to pry an answer akin to what this question does. It has always been weird to me. So for once and for all, I decided to write about my answer to this.
+At this given time, the heuristics that I use to decide what I want to work on revolves around three main factors: curiosity/enjoyment, people I am working with, and positive impact on the world.</description>
+    </item>
     
     <item>
       <title>Interact Application</title>
@@ -26,7 +45,7 @@
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/focus/</guid>
-      <description>Focus As my projects demand me to become more technical and go into heads down build mode, I find that there is a paradigm shift that happens within me to help me focus and be productive. I enter into a &amp;ldquo;meditative like&amp;rdquo; state where I block everything out and just focus on the dev work/task ahead. Here are a few things that I do in particular to help me out with this:</description>
+      <description>As my projects demand me to become more technical and go into heads down build mode, I find that there is a paradigm shift that happens within me to help me focus and be productive. I enter into a &amp;ldquo;meditative like&amp;rdquo; state where I block everything out and just focus on the dev work/task ahead. Here are a few things that I do in particular to help me out with this:</description>
     </item>
     
     <item>
@@ -131,8 +150,8 @@ Over the years, while exploring on the internet, I come across pages/sites that 
       
       <guid>/reading/</guid>
       <description>List of Books I&amp;rsquo;m currently reading  Dune Courage to be Disliked
- Letters to a Young Contrarian  &amp;nbsp;
-List of all books that I have read and would recommend  Skin in the Game by Taleb Meditations by Aurelius Bhagvat Gita Shoe Dog Coming Storm Ender&amp;rsquo;s Game Deep Work So Good They Can&amp;rsquo;t Ignore You Zero to One Ego is the Enemy Lean Startup Founders at Work  &amp;nbsp;</description>
+ Talking to Strangers Letters to a Young Contrarian  &amp;nbsp;
+List of all books that I have read and would recommend  Skin in the Game by Taleb Meditations by Aurelius David and Goliath by Gladwell (with the note that this is probably most effective to youngins&amp;rsquo; out there who feel like they are outliers (another malcolm gladwell book that is a decent read) - this book came to me at a time when I felt this and it gave me the permission to dream)  NB: The writer wants the reader to know that the writer felt like a badass when they used nested brackets  Bhagvat Gita Shoe Dog by Knight Coming Storm by Lewis Ender&amp;rsquo;s Game by Card Deep Work by Newport So Good They Can&amp;rsquo;t Ignore You by Newport Zero to One by Thiel Ego is the Enemy by Holiday Lean Startup by Ries Founders at Work by Livingston __All Enid Blyton books (I used to be obsessed with them as a kid) Great Gatsby by Fitzgerald (it was assigned reading in english in high school but had a lasting impact on me - thanks Mr.</description>
     </item>
     
   </channel>
