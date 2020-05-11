@@ -13,7 +13,7 @@ pygmentsUseClasses = true # new add
 
 [params] # theme parameters
     author = "Aditya Sharma" # Author's name.
-    info = "Aspiring ML engineer" # Author's job title or info.
+    info = "Builder trying to work on things that matter" # Author's job title or info.
     description = "Aditya Sharma's personal website" # Site description.
     keywords = "blog,developer,personal, portfolio, scientist, webspace" # Site keywords.
     avatarurl = "images/avi.jpg" # Contain the path of the optionnal avatar in the static folder.
