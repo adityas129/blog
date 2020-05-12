@@ -25,7 +25,7 @@ Over the years, while exploring on the internet, I come across pages/sites that 
 * [Dan Wang: Lots of deep dives into interesting topics](https://danwang.co/)
 &nbsp;
 
-* [James Hill-Khuranna: A cool compendium of goodies on the topic of tools for thought](https://jameshk.com/)
+* [James Hill-Khurana: A cool compendium of goodies on the topic of tools for thought](https://jameshk.com/)
 &nbsp;
 
 * [Dan Romero: Startups holy grail resources](https://danromero.org/canon.html)
