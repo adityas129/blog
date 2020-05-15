@@ -60,4 +60,5 @@ Inspired by [Chip Huyen's list](https://huyenchip.com/list-100/), I wanted to cr
 39. Keep adding to this list
 40. Thank Reid Hoffman in person
 41. Thank Bill Gates in person 
-
+42. Live at https://topos.house/
+43. Be part of South park Commons
