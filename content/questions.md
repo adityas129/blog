@@ -5,8 +5,19 @@ description = "Ponderin' & Musin' "
 +++
 
 
-Questions that I struggle with to this day
+Questions that I struggle with/ponder often about to this day
 
+
+* How do I cultivate crystal-clear thinking?
+* Can human decision-making be automated?
+* Is all of life just a story that each individual makes up/tell ourselves? In other words, is objectivity an illusion? 
+* What came first, the chicken or the egg? (lol)
+* Can one be calm/happy while also chasing goals? It seems to me that to chase a big goal, one has to embrace the desire to be at the top. However, to be truly happy, one has to be content with all they got. 
+* How much of our lives/livings is defined by the tools we use?
+* Will we ever get to a point computationally where alternate universes could be simulated? 
+* Is mathematics truly the language of the universe or rather or interpretation/explanation of it? To elaborate, how antifragile/failure-resilient is the modern mathematical system?
+* What are the key things people look for, when looking for meaning or get behind an ideology/vision? And how easily engineered could that be? 
+* What makes certain people soooo characteristic/magnetic?
 * Is a calm mind better or one with a bunch of crazy ideas? 
 * How should I best engineer my environment to optimize growth + development?
 * [What are my scales and what is the best way to practice my scales?] (https://marginalrevolution.com/marginalrevolution/2019/07/learn-like-an-athlete-knowledge-workers-should-train.html)
@@ -15,8 +26,8 @@ Questions that I struggle with to this day
 * How do I conquer the mind and it's primal needs? 
 * How do I rapidly iterate my understanding of a very niche area and become a domain expert? 
 * How should I increase my rate of learning as a developer? 
-* Is specialization in technical skills worth it or is being a generalist more aligned for my goals? 
-    ** If generalization is the answer, how do I beocme the best generalist that I can be? 
+* Is specialization in technical skills worth it or is being a generalist more aligned for my goals?
+    - If generalization is the answer, how do I beocme the best generalist that I can be? 
 * How to make deeper connections with people around me? 
 
 &nbsp;

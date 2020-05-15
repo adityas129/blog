@@ -5,9 +5,20 @@ description = "projects"
 +++
 &nbsp;
 
-
-* Brain Hardware: In progress - learning more about BCI as I go at it :)
+This is a non-exhaustive list of projects I have worked on and am proud of. I only started writing here what I work on recently so this is why there are a whole bunch missing (I'd reckon this is about 20% of all the projects I have worked on). For listed projects here, some are shipped, others are not. Regardless, feel free to look around!
 &nbsp;
+
+* [Six Feet Away](https://sixfeetaway.today/#_=_): Worked on this with five other folks to encourage and foster spontaneous conversations. Facebook is great but the activation energy it takes to start a conversation from scratch is way too high. Also, besides the green circle indicating they are active, there is no more insight into what friends are __ACTUALLY__ doing. With Six Feet Away, see what friends are doing, such as playing video games or working out, and join them.  
+&nbsp;
+
+
+* [moshimoshi](https://moshimoshi.chat/): Anonymouse message board with a new topic every 24h. The hope is to encourage folks to engage in more meaningful and thought-provoking conversations. You know, the ones where you walk away feeling more invigorated, energized and curious than before. Trying to simulate that online
+&nbsp;
+
+* Emotion: Built an emotion detector on top of the [Emotiv EEG Headset](https://www.emotiv.com/epoc/). To be honest, it wasn't as good as I hoped since there were hardware constraints. Also, Thomas Reardon (CTRL-Labs dude) describes EEG as trying to have a conversation while in a stadium of 50,000 people yelling. However, I'm still super interested and bullish about Brain Computer Interfaces. If you know something I don't, do share!
+&nbsp;
+
+* [Prufer](https://prufer.io/): Worked on trying to make Powerpoints and presentations suck less for a little while. The hope was to do what Notion did to Word for presentations. Unfortunately, didn't finish building the entire platform (found that [another company](https://pitch.com/) was ahed when building this) but was a great learning experience regardless! 
 
 * [Nearer](https://github.com/adityas129/298): Nearby Object Detector for Bicycles using Ultrasonic sensors. Had a fun time building this project as I learned about the entire lifecycle of building hardware from designing a schematic to designing PCBs to soldering and developing the software
 &nbsp;
