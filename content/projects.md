@@ -8,10 +8,7 @@ description = "projects"
 This is a non-exhaustive list of projects I have worked on and am proud of. I only started writing here what I work on recently so this is why there are a whole bunch missing (I'd reckon this is about 20% of all the projects I have worked on). For listed projects here, some are shipped, others are not. Regardless, feel free to look around!
 &nbsp;
 
-* [Six Feet Away](https://sixfeetaway.today/#_=_): Worked on this with five other folks to encourage and foster spontaneous conversations. Facebook is great but the activation energy it takes to start a conversation from scratch is way too high. Also, besides the green circle indicating they are active, there is no more insight into what friends are __ACTUALLY__ doing. With Six Feet Away, see what friends are doing, such as playing video games or working out, and join them.  
-&nbsp;
-
-
+* [Six Feet Away](https://sixfeet.chat/): Worked on this with five other folks to encourage and foster spontaneous conversations. Facebook is great but the activation energy it takes to start a conversation from scratch is way too high. Also, besides the green circle indicating they are active, there is no more insight into what friends are __ACTUALLY__ doing. With Six Feet Away, see what friends are doing, such as playing video games or working out, and join them.  
 * [moshimoshi](https://moshimoshi.chat/): Anonymouse message board with a new topic every 24h. The hope is to encourage folks to engage in more meaningful and thought-provoking conversations. You know, the ones where you walk away feeling more invigorated, energized and curious than before. Trying to simulate that online
 &nbsp;
 
