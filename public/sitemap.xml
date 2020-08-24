@@ -4,13 +4,18 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-04-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/posts/bucketlist/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
-    <lastmod>2020-04-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,10 +60,6 @@
   
   <url>
     <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/now/</loc>
   </url>
   
   <url>

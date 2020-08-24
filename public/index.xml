@@ -6,10 +6,20 @@
     <description>Recent content on Adi Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BucketList</title>
+      <link>/posts/bucketlist/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bucketlist/</guid>
+      <description>Note: This is a living document &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+Inspired by Chip Huyen&amp;rsquo;s list, I wanted to create a list of things that I&amp;rsquo;d love to someday do before I die. I&amp;rsquo;m not sure if I can fit all of this in one life - but I&amp;rsquo;ll try my best! Some of these are whimsical, some are more pragmatic. At any one point, you can find me trying to chase one of these -&amp;gt; currently focussed on 1 and 2.</description>
+    </item>
     
     <item>
       <title>Thank you Teachers</title>
@@ -73,7 +83,7 @@ Why I took Winter 2020 off? -- Why I took Winter 2020 off? For the past three ye
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hi there - I am Adi! I am currently a Computer Engineering student at the Universiy of Waterloo with a special affinity to Deep Learning, Data Science and Engineering. Three years ago, I chose to study Engineering to learn the skills I need to make products that impact lives of many people. A lot has changed since then; my reason for doing what I do though, has not. I aspire to leverage the skills that I have to develop projects that are exciting, ambitious, vertical, and impactful.</description>
+      <description>Hi there - I am Adi! I am currently a 3rd year Computer Engineering student at the Universiy of Waterloo with a special affinity to Deep Learning, Data Science and Engineering. Four years ago, I chose to study Engineering to learn the skills I needed to make products that impact lives of many people. A lot has changed since then; my reason for doing what I do though, has not. I aspire to leverage the skills that I have to develop projects that are exciting, ambitious, vertical, and impactful.</description>
     </item>
     
     <item>
@@ -85,17 +95,6 @@ Why I took Winter 2020 off? -- Why I took Winter 2020 off? For the past three ye
       <description>Want to reach out? Feel free to contact me at adityas129@gmail.com or message me on Twitter. I&amp;rsquo;m always down for a conversation :)
 
 PS: Also, thanks for stopping by, here&amp;rsquo;s a cookie for you </description>
-    </item>
-    
-    <item>
-      <title>Current Events : Me</title>
-      <link>/now/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/now/</guid>
-      <description>What&amp;rsquo;s up my life right now?
-Last Updated: March 9th 2020
-Work  Working on an indie project with a friend while also experimenting with a few things! Will publish more about both projects by March 14th!  Life Experiences  welp - coronavirus got me beat so now sticking this entire term out t home in GP - which is cool cuz it means more time with the fam  Information Diet  TV/Movie: Hot Ones (obsessed with this show), brooklyn 99, blacklist</description>
     </item>
     
     <item>
@@ -128,9 +127,8 @@ Over the years, while exploring on the internet, I come across pages/sites that 
       
       <guid>/projects/</guid>
       <description>&amp;nbsp;
- Brain Hardware: In progress - learning more about BCI as I go at it :) &amp;nbsp;
- Nearer: Nearby Object Detector for Bicycles using Ultrasonic sensors. Had a fun time building this project as I learned about the entire lifecycle of building hardware from designing a schematic to designing PCBs to soldering and developing the software &amp;nbsp;
- LabelLearn: This project aims to enable a labeller to be consistent with both their fellow labelers and their past self while seeing the live class distribution of the dataset.</description>
+This is a non-exhaustive list of projects I have worked on and am proud of. I only started writing here what I work on recently so this is why there are a whole bunch missing (I&amp;rsquo;d reckon this is about 20% of all the projects I have worked on). For listed projects here, some are shipped, others are not. Regardless, feel free to look around! &amp;nbsp;
+ Six Feet Away: Worked on this with five other folks to encourage and foster spontaneous conversations.</description>
     </item>
     
     <item>
@@ -139,8 +137,8 @@ Over the years, while exploring on the internet, I come across pages/sites that 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/questions/</guid>
-      <description>Questions that I struggle with to this day
- Is a calm mind better or one with a bunch of crazy ideas? How should I best engineer my environment to optimize growth + development? What are my scales and what is the best way to practice my scales? How do I manage information intake? What aspects of my identity are worth preserving? How do I conquer the mind and it&amp;rsquo;s primal needs?</description>
+      <description>Questions that I struggle with/ponder often about to this day
+ How do I cultivate crystal-clear thinking? Can human decision-making be automated? Is all of life just a story that each individual makes up/tell ourselves? In other words, is objectivity an illusion? What came first, the chicken or the egg? (lol) Can one be calm/happy while also chasing goals? It seems to me that to chase a big goal, one has to embrace the desire to be at the top.</description>
     </item>
     
     <item>
@@ -151,7 +149,7 @@ Over the years, while exploring on the internet, I come across pages/sites that 
       <guid>/reading/</guid>
       <description>List of Books I&amp;rsquo;m currently reading  Dune Courage to be Disliked
  Talking to Strangers Letters to a Young Contrarian  &amp;nbsp;
-List of all books that I have read and would recommend  Skin in the Game by Taleb Meditations by Aurelius David and Goliath by Gladwell (with the note that this is probably most effective to youngins&amp;rsquo; out there who feel like they are outliers (another malcolm gladwell book that is a decent read) - this book came to me at a time when I felt this and it gave me the permission to dream)  NB: The writer wants the reader to know that the writer felt like a badass when they used nested brackets  Bhagvat Gita Shoe Dog by Knight Coming Storm by Lewis Ender&amp;rsquo;s Game by Card Deep Work by Newport So Good They Can&amp;rsquo;t Ignore You by Newport Zero to One by Thiel Ego is the Enemy by Holiday Lean Startup by Ries Founders at Work by Livingston __All Enid Blyton books (I used to be obsessed with them as a kid) Great Gatsby by Fitzgerald (it was assigned reading in english in high school but had a lasting impact on me - thanks Mr.</description>
+List of all books that I have read and would recommend  Skin in the Game by Taleb Meditations by Aurelius David and Goliath by Gladwell (with the note that this is probably most effective to youngins&amp;rsquo; out there who feel like they are outliers (another malcolm gladwell book that is a decent read) - this book came to me at a time when I felt this and it gave me the permission to dream)  NB: The writer wants the reader to know that the writer felt like a badass when they used nested brackets  Bhagvat Gita Shoe Dog by Knight Coming Storm by Lewis Ender&amp;rsquo;s Game by Card Deep Work by Newport So Good They Can&amp;rsquo;t Ignore You by Newport Zero to One by Thiel Ego is the Enemy by Holiday Lean Startup by Ries Founders at Work by Livingston All Enid Blyton books (I used to be obsessed with them as a kid) Great Gatsby by Fitzgerald (it was assigned reading in english in high school but had a lasting impact on me - thanks Mr.</description>
     </item>
     
   </channel>

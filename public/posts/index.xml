@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Adi Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BucketList</title>
+      <link>/posts/bucketlist/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bucketlist/</guid>
+      <description>Note: This is a living document &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+Inspired by Chip Huyen&amp;rsquo;s list, I wanted to create a list of things that I&amp;rsquo;d love to someday do before I die. I&amp;rsquo;m not sure if I can fit all of this in one life - but I&amp;rsquo;ll try my best! Some of these are whimsical, some are more pragmatic. At any one point, you can find me trying to chase one of these -&amp;gt; currently focussed on 1 and 2.</description>
+    </item>
     
     <item>
       <title>Thank you Teachers</title>
