@@ -1,6 +1,6 @@
 +++
 draft = false
-date = "2020-01-28"
+date = "2020-08-25"
 title = "On being the dumbest person in the room"
 slug = "dumb"
 categories = []
