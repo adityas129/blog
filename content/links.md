@@ -50,9 +50,6 @@ Over the years, while exploring on the internet, I come across pages/sites that 
 
 * [Nadia Eghbal: Really cool open source person](https://nadiaeghbal.com/)
 
-* [James Hill-Khurana: A pretty exhaustive curation of goodies/labs/products on the topic of tools for thought](https://jameshk.com/)
-&nbsp;
-
 * [Philip Guo: Prolific Prof](http://www.pgbovine.net/)
 
 * [Absolutely amazing creative agency - their work is other worldly](https://activetheory.net/work)
