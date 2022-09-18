@@ -4,7 +4,7 @@ slug = "about"
 description = "about"
 +++
 
-Hi - I’m Adi! I am a software engineer based out of SF currently working at Affirm. I went to school at UWaterloo and learnt how to move bits and bytes to do things there. In the past, I’ve started (and failed at building) my own company, worked as a founding engineer at a super early-staged startup,  worked in software (frontend, backend, data, infra, ml) at a bunch of different places (5 fulltime internships to be exact) and got stuck in Germany airport for three days after losing my passport. 
+Hi - I’m Adi! I am a software engineer based out of SF currently working at Affirm. I went to school at UWaterloo and learnt how to move bits and bytes to do things there. In the past, I’ve started (and failed at building) my own company, worked as a founding engineer at a super early-staged startup,  worked in software (frontend, backend, data, infra, ml) at a bunch of different places (5 fulltime internships to be exact) and got stuck at an airport in Germany for three days after losing my passport. 
 
 
 &nbsp;
