@@ -17,4 +17,4 @@ Hello internet friends. It has certainly been a while since I've seen you. There
 3) Writing for communication. I want to be a force for good in the world. To amplify efforts and move the needle in any vertical, odds are I can't get there alone. It takes teamwork to do so. Teamwork requires collaboration and coordination. We achieve those through communication. Currently, we are able to accomplish those primarily through body language, written and spoken words. I see writing as an exercise that allows one to be more comfortable with words.
 
 
-Anyhow, I'm not sure what I will be posting here. Haikus? Technical explorations? Think pieces? Who knows. I am just excited to press publish and declare positive intent to the nethers of the world wide web.  
+Anyhow, I'm not sure what I will be posting here. Haikus? Technical explorations? Think pieces? Who knows. For now, I am just excited to press publish and declare positive intent to the nethers of the world wide web.  
