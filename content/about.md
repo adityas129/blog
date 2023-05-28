@@ -9,7 +9,7 @@ Hi - I’m Adi! I am a software engineer based out of SF currently working at Af
 
 &nbsp;
 
-I am intensely curious about the world around me and trying to understand how to make it better for everybody. I hope to do so by working at companies/orgs that do that and eventually (hoping in a year or two) starting one myself :) I enjoy walking with people and learning about different life stories, playing and sometimes watching badminton and basketball, and trying to get better at chess. Oh also I’m Canadian so you know I’m friendly :) 
+I am intensely curious about the world around me and trying to understand how to make it better for everybody. I hope to do so by working at companies/orgs that do that and eventually (hoping in a year or two) starting one myself :) I enjoy walking with people and learning about different life stories, playing and sometimes watching badminton and basketball, and trying to get better at chess.
 
 &nbsp;
 
