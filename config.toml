@@ -16,7 +16,7 @@ pygmentsUseClasses = true # new add
     info = "Hi! Welcome to my humble abode :) Go on, gander around" # Author's job title or info.
     description = "Aditya Sharma's personal website" # Site description.
     keywords = "blog,developer,personal, portfolio, scientist, webspace" # Site keywords.
-    avatarurl = "images/avi.jpeg" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "images/avi.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "Made with &#9825; under &#9728; with lots of 🍉 " # Add footer content
 
