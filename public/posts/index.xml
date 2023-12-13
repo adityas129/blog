@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Adi Sharma</title>
@@ -6,10 +6,15 @@
     <description>Recent content in Posts on Adi Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On being the dumbest person in the room</title>
+      <link>/posts/dumb/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dumb/</guid>
+      <description>Every now so often, I feel like I am in a room where I feel like the people I am interacting with are on a much higher level than me. The natural and the wrong reaction that I tend to exhibit is feign intelligence. This is dumb and helps nobody in the long term. The reason behind why I feign probably has ties with my System 1 (see Thinking Fast and Slow by Kahneman) kicking in.</description>
+    </item>
     
     <item>
       <title>BucketList</title>
@@ -17,8 +22,7 @@
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/bucketlist/</guid>
-      <description>Note: This is a living document &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
-Inspired by Chip Huyen&amp;rsquo;s list, I wanted to create a list of things that I&amp;rsquo;d love to someday do before I die. I&amp;rsquo;m not sure if I can fit all of this in one life - but I&amp;rsquo;ll try my best! Some of these are whimsical, some are more pragmatic. At any one point, you can find me trying to chase one of these -&amp;gt; currently focussed on 1 and 2.</description>
+      <description>Note: This is a living document Inspired by Chip Huyen&amp;rsquo;s list, I wanted to create a list of things that I&amp;rsquo;d love to someday do before I die. I&amp;rsquo;m not sure if I can fit all of this in one life - but I&amp;rsquo;ll try my best! Some of these are whimsical, some are more pragmatic. At any one point, you can find me trying to chase one of these -&amp;gt; currently focussed on 1 and 2.</description>
     </item>
     
     <item>
@@ -64,8 +68,7 @@ At this given time, the heuristics that I use to decide what I want to work on r
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/winter2020/</guid>
-      <description>&amp;nbsp;
-Why I took Winter 2020 off? -- Why I took Winter 2020 off? For the past three years, as a University of Waterloo student, I have gotten the opportunity to partake in four different co-ops/internships alternating between school terms. I have found these experiences to be so invaluable to my learnings as an engineering student and just as a human and I am so grateful for each one of them.</description>
+      <description>Why I took Winter 2020 off? For the past three years, as a University of Waterloo student, I have gotten the opportunity to partake in four different co-ops/internships alternating between school terms. I have found these experiences to be so invaluable to my learnings as an engineering student and just as a human and I am so grateful for each one of them. However, because of this busy schedule of going back and forth between school and co-op, I found that I had very little time to explore some of the projects/passions/interests I wanted to.</description>
     </item>
     
     <item>

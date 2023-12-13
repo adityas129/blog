@@ -1,90 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/</loc>
-    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/dumb/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/posts/bucketlist/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/tyty/</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/x/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/interact-application/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/focus/</loc>
     <lastmod>2020-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/winter2020/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/posts/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/links/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/meditations/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/questions/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/reading/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>
