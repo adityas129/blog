@@ -20,8 +20,9 @@
           <a class="sns-share linkedIn-share" href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink }}"><i class="fab fa-linkedin"></i></a>
         {{ end }}
       </div>
-    {{ end }}
     {{ with .Site.Params.footercontent }}
+
+    {{ end }}
       <p>{{.}}</p>
     {{ end }}
     {{ if not .Site.Params.hideCopyright }} © {{ .Site.LastChange.Format "2006" }} {{ end }} {{ if not .Site.Params.hideCredits}} {{ if not .Site.Params.hideCopyright }} · {{ end }} Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/naro143/hugo-coder-portfolio">CoderPortfolio</a>. {{ end }}
