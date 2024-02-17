@@ -1,8 +1,8 @@
 +++
 draft = false
-date = "2023-02-17"
+date = "2024-02-17"
 title = "Microthoughts"
-slug = "hard"
+slug = "twitter"
 categories = []
 thumbnail = "{{ .Site.Params.thumbnail }}"
 description = "tradeoffs"
