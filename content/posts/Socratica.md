@@ -8,8 +8,6 @@ thumbnail = "{{ .Site.Params.thumbnail }}"
 description = "socratica"
 +++
 
-# Socratica Commencement
-
 [The tweet that started it all](https://twitter.com/adityas129/status/1495465853776769035). 
 
 Below is the very first Memo me and Aman sent out to the first set of attendees of the inaugural Socratica session. Very short, sweet but to the point:
