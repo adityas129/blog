@@ -13,6 +13,4 @@ I am intensely curious about the world around me and trying to understand how to
 
 &nbsp;
 
-If I seem like an interesting person that you'd want to hang out/talk/muse with - head over to the contacts tab to figure out how to get in touch!!
-
 
