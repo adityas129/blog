@@ -2,7 +2,7 @@
 draft = false
 date = "2024-04-03"
 title = "Socratica Commencement Manifesto"
-slug = "post-socratica-commencement"
+slug = "socratica-commencement"
 categories = []
 thumbnail = "{{ .Site.Params.thumbnail }}"
 description = "socratica"
