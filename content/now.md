@@ -4,7 +4,7 @@ slug = "now"
 description = "now"
 +++
 
-Location: Calgary
+Location: SF ✈️ Calgary (here until 15th April at least)
 
 Mood/Vibe: Mellow. Holding space/helping out family after a scary health diagnosis. Still working. 
 
