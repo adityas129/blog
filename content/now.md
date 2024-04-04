@@ -6,7 +6,7 @@ description = "now"
 
 Location: SF ✈️ Calgary (here until 15th April at least)
 
-Mood/Vibe: Mellow. Holding space/helping out family after a scary health diagnosis. Still working. 
+Mood/Vibe: Melancholy. Holding space/helping out family after a scary health diagnosis. Still working. 
 
 Cool/thought-provoking articles found on the interwebs recently read: https://internetprincess.substack.com/p/no-good-alone
 
