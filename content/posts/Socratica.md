@@ -10,7 +10,7 @@ description = "socratica"
 
 [The tweet that started it all](https://twitter.com/adityas129/status/1495465853776769035). 
 
-Below is the very first Memo me and Aman sent out to the first set of attendees of the inaugural Socratica session. Very short, sweet but to the point:
+Below is the very first memo [Aman](https://amanmathur.com/home) and I sent out to the first set of attendees of the inaugural Socratica session. Very short, sweet but to the point:
 
 ## Welcome to Socratica!
 
