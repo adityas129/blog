@@ -97,7 +97,6 @@ pygmentsUseClasses = true # new add
     weight = 5
     url = "meditations"
 
-
 [[menu.main]]
     name = "Questions"
     weight = 7
@@ -109,6 +108,11 @@ pygmentsUseClasses = true # new add
     url = "links"
 
 [[menu.main]]
-    name = "Contact me"
+    name = "Now"
     weight = 9
+    url = "now"
+
+[[menu.main]]
+    name = "Contact me"
+    weight = 10
     url = "contact"

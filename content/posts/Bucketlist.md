@@ -17,10 +17,10 @@ description = "My bucketlist"
 &nbsp;
 &nbsp;
 
-Inspired by [Chip Huyen's list](https://huyenchip.com/list-100/), I wanted to create a list of things that I'd love to someday do before I die. I'm not sure if I can fit all of this in one life - but I'll try my best! Some of these are whimsical, some are more pragmatic. At any one point, you can find me trying to chase one of these -> currently focussed on 1 and 2. The hope is also to focus on 1 or 2 things at max at any given point. Doing more will lead to stress/unhappiness. 
+Inspired by [Chip Huyen's list](https://huyenchip.com/list-100/), I wanted to create a list of things that I'd love to someday do before I die. I'm not sure if I can fit all of this in one life - but I'll try my best! Some of these are whimsical, some are more pragmatic. At any one point, you can find me trying to chase one of these. The hope is also to focus on 1 or 2 things at max at any given point. Doing more will lead to stress/unhappiness.  
 
-1. Start a mission-oriented company (sector unknown but most likely in ML/devtool/creativity/fintech) and scale it
-2. Participate in YC
+1. Start a mission-oriented company (sector unknown but most likely in ML/devtool/creativity/fintech) 
+2. Scale above company to great heights (I'm not sure how/what this means yet; need to find a good north star metric)
 3. Find ways to fund education/provide good internet + devices in developing countries at a massive scale
 4. Drive a superfast car on a racetrack (my middle school self was obsessed with cars)
 5. Go skydiving
