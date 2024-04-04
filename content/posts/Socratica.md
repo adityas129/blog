@@ -22,7 +22,7 @@ Time and time again throughout history, we have seen that magical things  can ha
  
 We at Socratica are excited to gather the creative spirits of Waterloo to create some of the same magic and hope that this can be a birthing place for many great things. We really hope that you join us in making Socratica a truly special place. 
 
-Warmly, 
+Warmly, \
 Adi and Aman
 
 
