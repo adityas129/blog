@@ -55,10 +55,10 @@ pygmentsUseClasses = true # new add
     name = "Devpost"
     weight = 2
     url = "https://devpost.com/adityas129/" #devpost
-[[params.social]]
-    name = "Resume"
-    weight = 3
-    url = "files/resume.pdf"
+# [[params.social]]
+  #  name = "Resume"
+   # weight = 3
+   #  url = "files/resume.pdf"
 [[params.social]]
     name = "LinkedIn"
     weight = 4
