@@ -89,12 +89,6 @@ pygmentsUseClasses = true # new add
     weight = 3
     url = "projects"
 
-[[menu.main]]
-    name = "Readings"
-    weight = 4
-    url = "reading"
-
-[[menu.main]]
     name = "Meditations"
     weight = 5
     url = "meditations"
