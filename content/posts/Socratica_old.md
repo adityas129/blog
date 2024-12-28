@@ -10,7 +10,7 @@ description = "socratica"
 
 [The tweet that started it all](https://twitter.com/adityas129/status/1495465853776769035). 
 
-Below is the very first memo [Aman](https://amanmathur.com/home) and I sent out to the first set of attendees of the inaugural [Socratica](https://x.com/socraticainfo) session. A longer blog post on all things Socratica from my POV has been in works for quite some time but I promise I'll eventually finish it. In the meanwhile, here's the memo -  short, sweet but to the point:
+Below is the very first memo [Aman](https://amanmathur.com/home) and I sent out to the first set of attendees of the inaugural [Socratica](https://x.com/socraticainfo) session. For the uninitiated, Socratica is a community of builders, entrepreneurs, and creators that Aman and I started at the University of Waterloo. Since it's inception, it's really taken off and expanded to 28 official cities in six different countries (and many more unofficial offshoot ones). A longer blog post on all things Socratica from my POV has been in works for quite some time but I promise I'll eventually finish it (and I'll link it here when I do). In the meanwhile, here's the memo -  short, sweet but to the point:
 
 ## Welcome to Socratica!
 

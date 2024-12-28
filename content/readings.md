@@ -2,6 +2,7 @@
 title = "Readings"
 slug = "reading"
 description = "readings"
+draft = false
 +++
 
 #### List of Books I'm currently reading
