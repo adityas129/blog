@@ -104,9 +104,9 @@ pygmentsUseClasses = true # new add
     url = "links"
 
 [[menu.main]]
-    name = "Now"
+    name = "Changelog"
     weight = 9
-    url = "now"
+    url = "changelog"
 
 [[menu.main]]
     name = "Contact me"
