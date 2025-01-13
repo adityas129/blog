@@ -8,7 +8,6 @@ draft = false
 #### List of Books I'm currently reading
 
 * On the Shortness of Life 
-* Finite and Infinite Games
 
 
 &nbsp;
