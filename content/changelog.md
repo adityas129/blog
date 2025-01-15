@@ -8,7 +8,7 @@ Changelog for the entreprenurial journey -> currently on the quest to build a co
 
 ### 1/14/2025 
 
-Clarified priorities with V! I think we will hit our deadline. Finished integrating the backend with Frontend for most of the features. There's a few calls that need to be tied up and some optimizations to be done. But we are getting there. Had a good sync with V and got aligned on the direction of the project and what we can do to make things faster.
+Clarified priorities with V! I think we will hit our deadline. Finished integrating the backend with Frontend for most of the features. There's a few calls that need to be tied up and some optimizations to be done. But we are getting there. Had a good sync with V and got aligned on the direction of the project and what we can do to make things faster. Still on track to ship by the 16th. 
 
 Lessons learned: 
 1. When you are working on a project, it's always good to have a clear direction and a plan. We were laizze-fairing a little bit and had multiple balls in flight which made coordination difficult. Clarifying things made it difficult. 
