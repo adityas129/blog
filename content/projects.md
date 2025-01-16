@@ -5,7 +5,7 @@ description = "projects"
 +++
 &nbsp;
 
-This is a non-exhaustive list of projects I have worked on and am proud of. These are out of date and I haven't updated these in a while (I'd reckon this is about 7.5% of all the projects I have worked on and roughly only capture 2017-2020 - there's a bunch more I've done since that I'll update soon). For listed projects here, some are shipped, others are not. Regardless, feel free to look around!
+This is a non-exhaustive list of projects I have worked on and am proud of. These are out of date and I haven't updated these in a while (I'd reckon this is about 7.5% of all the projects I have worked on and roughly only capture **2017-2020** - there's a bunch more I've done since that I'll update soon). For listed projects here, some are shipped, others are not. Regardless, feel free to look around!
 &nbsp;
 
 * [Six Feet Away](https://sixfeet.chat/): Worked on this with five other folks to encourage and foster spontaneous conversations. Facebook is great but the activation energy it takes to start a conversation from scratch is way too high. Also, besides the green circle indicating they are active, there is no more insight into what friends are __ACTUALLY__ doing. With Six Feet Away, see what friends are doing, such as playing video games or working out, and join them.  

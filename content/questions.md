@@ -5,7 +5,7 @@ description = "Ponderin' & Musin' "
 +++
 
 
-Questions that I struggle with/ponder often about to this day
+Questions that I struggle with/ponder often about. Some are profound, others more tactical.
 
 
 * How do I cultivate crystal-clear thinking?
@@ -29,7 +29,8 @@ Questions that I struggle with/ponder often about to this day
 * Is specialization in technical skills worth it or is being a generalist more aligned for my goals?
     - If generalization is the answer, how do I beocme the best generalist that I can be? 
 * How to make deeper connections with people around me? 
-
+* What is inhibiting me from making progress 10 times faster in my chosen vertical? 
+* If I had 10x more agency, what would I do to solve the problems I am solving right now? 
 &nbsp;
 &nbsp;
 &nbsp;

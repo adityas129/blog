@@ -19,4 +19,11 @@ This is a space where I just note down random ideas and thoughts that come to me
 * At the end of the day, the only thing under my control associated to me is hustle. While true meritocracy may not exist, I am currently in an extremely priveledged place to attain to conversion of hardwork to success in my chosen field
 * Every action, however huge or small is a step towards the future self
 * It is a futile exercise to compare progress of oneself to other people - everybody has a different background and each individual has their strengths and weaknesses
- 
+* Mimetic desire is a powerful force that can be harnessed to do great things but also the contrary 
+* Be known to do the right thing, always and do it well
+* Careers are long
+* Always be learning and curiosity driven
+* Contrary to defauult state of my mind, it's good to feel things no matter how strong the urge to intellectualize it
+* Thought-looping is a trap. ACTION PRODUCES INFORMATION WHICH PRODUCES DIRECTION
+* Along a similar vein, momentum is powerful; when you catch a whiff of momentum, double down fast
+
