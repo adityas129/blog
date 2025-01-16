@@ -17,8 +17,7 @@ Success/Highlights:
 
 Lessons learned: 
 1. Prioritize sleep and meditation. 
-2. Know what the most successful version of Adi in current season looks like and emulate/embrace that. 
-
+2. Know what the most successful version of Adi in current season looks like and emulate/embrace that. In this case, for another day, it is code monkey adi. 
 
 ### 1/14/2025 
 
