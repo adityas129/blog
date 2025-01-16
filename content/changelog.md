@@ -10,6 +10,11 @@ Changelog for the entreprenurial journey -> currently on the quest to build a co
 
 Hmmm - a rather worse day productivity wise. I think it's because I didn't get enough sleep last night + didn't meditate and journal; went right to work. Reminder to prioritize sleep and meditation. Still managed to get a good amount of work done. Attended SPC Demo Faire which was cool - lots of fun projects and some market research on state of the art stuff going on. But it was a distraction - need to lock in and focus. Was going to pull an all-nighter but I think I'll just go to bed early and get up early. Sleep is important and crucial. Also worked out of the Alchemist today which was cool; met some new people and talked a little about AI. I think discourse and meeting folks is cool - but I need to be more focused on the product. It's always a balance trying to optimize for focus mode and talking about the product. I think execution comes first and then talking to focus. I know what I need to do and I should prioritize at all costs. 
 
+Success/Highlights: 
+1. Got out of the house
+2. Found a cool new spot to work out of that I like - may get a membership here. 
+3. Attended SPC Demo Faire which was cool - lots of fun projects and some market research on state of the art stuff going on. 
+
 Lessons learned: 
 1. Prioritize sleep and meditation. 
 2. Know what the most successful version of Adi in current season looks like and emulate/embrace that. 
