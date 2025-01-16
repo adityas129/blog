@@ -9,7 +9,9 @@ Why hello there - I’m Adi! I am currently exploring interfaces, financial infr
 
 &nbsp;
 
-I am intensely curious about the world around me and trying to understand how to make it better for everybody. I hope to do so by working on/at companies/orgs that do that :) For fun, I enjoy walking with people and learning about different life stories, playing and sometimes watching badminton and basketball, and trying to get better at chess.
+I am intensely curious about the world around me and trying to understand how to make it better for everybody. I care to be an individual who builds important things even at the face of sweeping adversity with a resolve.
+
+For fun, I enjoy walking with people and learning about different life stories, playing and sometimes watching badminton and basketball, and trying to get better at chess.
 
 &nbsp;
 
