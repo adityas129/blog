@@ -67,10 +67,6 @@ pygmentsUseClasses = true # new add
     name = "Twitter"
     weight = 5
     url = "https://twitter.com/adityas129/"
-[[params.social]]
-    name = "Substack"
-    weight = 6
-    url = "https://adityas129.substack.com/"
 
 
 
