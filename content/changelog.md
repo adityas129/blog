@@ -6,6 +6,11 @@ description = "changelog"
 
 Changelog for the entreprenurial journey -> currently on the quest to build a consumer facing AI product
 
+### 1/17/2025 
+
+Yesterday was good - a lot of grinding but we ended up finding out that Google Chrome extension takes up to a week to get approved :(((((( Ended up stalling our release date. Sad dayyyyyy. Had we known this, we would have started working on the extension a lot earlier. Lesson learned - for the things that have external dependencies, we need to start working on them a lot earlier. Identify potential blockers and plan accordingly. Codewise we are complete for MVP save for final touches but we can't launch without the extension. So planning to finish code and then work on the product side until we get approved and then ship. In the meantime, might hack around on other ideas as well. 
+
+
 ### 1/16/2025 
 
 Ahhhh we didn't hit it. The deadline was yesterday. I think we are still on track to ship soon. We are getting there. A few niggles and a few things to fix. But we are getting there. This was interesting - earlier me would have pushed to all extents pulling all-nighter to meet this. But I now realize the toll loss of sleep takes in the long run and it doesn't help us. Rest assured - we are getting there. 
