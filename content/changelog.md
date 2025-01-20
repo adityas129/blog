@@ -6,6 +6,16 @@ description = "changelog"
 
 Changelog for the entreprenurial journey -> currently on the quest to build a consumer facing AI product
 
+### 1/19/2025 
+
+I got carried away yesterday and ended up staying up late. Rookie mistake. It's ok to take mis-steps along the way; all part of the journey. I'm learning to be patient with myself. Having good friends and a good support system is crucial. Thank you to the real ones for sometimes listening to me rant and make space for it. I appreciate it v v much. It's funny - I have such a different outlook on life now compared to when I was at Affirm. I feel more agentic about everything. Mood, sleep, my fitness, my work. I think the meta-skill of being able to make a step and break down each problem with step 0 is so good. I like. 
+
+Highlights: while working out of the commons, I ended up serendipitously joining a jam session with folks playing and playing the drums. So much fun and I felt so much better afterwards. Music is magical. 
+
+### 1/18/2025 
+
+Good day - got a lot of work done. Relearning that the last 20% of a project is the most important and the hardest and ends up taking the most time. The pareto principle at it's finest. We are finding new bugs and fixing them as they come up and come along. We don't really have a deadline anymore since we will just be waiting for the chrome extension to get approved. So we are just going to keep working on the product and keep adding/iterating as we go along. I do feel this pressure to ship (fully self-imposed) but it's good to not let it carry me away.
+
 ### 1/17/2025 
 
 Yesterday was good - a lot of grinding but we ended up finding out that Google Chrome extension takes up to a week to get approved :(((((( Ended up stalling our release date. Sad dayyyyyy. Had we known this, we would have started working on the extension a lot earlier. Lesson learned - for the things that have external dependencies, we need to start working on them a lot earlier. Identify potential blockers and plan accordingly. Codewise we are complete for MVP save for final touches but we can't launch without the extension. So planning to finish code and then work on the product side until we get approved and then ship. In the meantime, might hack around on other ideas as well. 
