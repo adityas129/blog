@@ -6,6 +6,39 @@ description = "changelog"
 
 Changelog for the entreprenurial journey -> currently on the quest to build a consumer facing AI product
 
+
+### 1/26/2025 
+
+took the day off. i know the last few blog posts were lazy but just been heads down.
+
+### 1/25/2025 
+
+worked on product stuff.
+
+### 1/24/2025 
+MVP is done. We are now doing user interviews. I learned that I don't know how to do good user interviews so trying to learn as fast as possible. hmu if u have tips on how to do good user interviews. bonus points for consumer
+
+### 1/23/2025 
+
+change the design a little bit. reapplied for the chrome extension approval.
+
+### 1/22/2025 
+
+First user interview. Got roasted!! Also ended up chatting with two other consumer founders. A few takeaways: 
+1. consumer playbook different from YC b2b 
+2. a lot of apps can go through spiky usage territory but the north star is consistency
+3. We need to be more focused on the product and less on the tech. 
+
+Also had a VC dinner. When pitching the idea, a few folks seem to be ambivalent/resonated. It's been an interesting experience to pitch. 
+
+### 1/21/2025 
+
+not much updates
+### 1/20/2025 
+
+I accidentally locked my stuff out (laptop, phone, wallet, keys, everything) at my coworking space lol. Thankfully, I had a backup. Not much work was done.
+
+
 ### 1/19/2025 
 
 I got carried away yesterday and ended up staying up late. Rookie mistake. It's ok to take mis-steps along the way; all part of the journey. I'm learning to be patient with myself. Having good friends and a good support system is crucial. Thank you to the real ones for sometimes listening to me rant and make space for it. I appreciate it v v much. It's funny - I have such a different outlook on life now compared to when I was at Affirm. I feel more agentic about everything. Mood, sleep, my fitness, my work. I think the meta-skill of being able to make a step and break down each problem with step 0 is so good. I like. 
