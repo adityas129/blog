@@ -7,6 +7,16 @@ description = "changelog"
 Changelog for the entreprenurial journey -> currently on the quest to build a consumer facing AI product
 
 
+### 2/13/2025
+
+HIHI! Long time, so much has happened. It's hard to keep updated. To quickly catch you up: 
+
+1. Chrome extension still in review 
+2. Talked to users and got feedback. 
+3. Implemented feedback. 
+4. Had a few personal fires creep up that I had to solve for a week. 
+5. Started GTM'ing! First time marketing a consumer product in a while. It's a new world and it's hard but I'm learning things.
+
 ### 1/26/2025 
 
 took the day off. i know the last few blog posts were lazy but just been heads down.
