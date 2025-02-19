@@ -4,18 +4,24 @@ slug = "about"
 description = "about"
 +++
 
-Hi - I’m Adi. I am currently building and exploring in interfaces, financial infrastructure, AGI and consumer social.
+I'm building and exploring in interfaces, financial infrastructure, AGI and consumer social. I owe much of my fun to my friends and UWaterloo. I am extremely excited about building important things that make the world better for everybody.
 
 &nbsp;
 
-Previously, I worked at Affirm - helping move frankly absurd amounts of money from one place to another. I went to school to study computer engineering at UWaterloo and learnt how to move bits and bytes to do things there. In the past, I’ve started (failed once, somewhat worked out another time) my own company, worked as a founding engineer at a super early-staged startup where I got the chance to build, grow and manage a team,  worked in software (frontend, backend, data, infra, ml) at a bunch of different places (5 fulltime internships to be exact) and got stuck at an airport in Germany for three days after losing my passport. 
+Previously I:
+
+- Worked at Affirm, helping move frankly absurd amounts of money from one place to another on the Disbursements team
+- Studied computer engineering at UWaterloo, learning how to move bits and bytes to do things
+    - Fun things I did during my time there included: starting and growing Socratica, going to many (and sometimes winning) hackathons, building self-driving (Watonomous) + solar car (Midnight Sun) software, trading + data science competitions, and eating a lot of Lazeez + Shinwa. 
+- Worked as employee #1 and led all things Engineering at Pareto, building and managing a team of 6
+- Built software across the stack (frontend, backend, data, infra, ml) at five different companies and labs
+- Started multiple companies (failed once, somewhat worked out another time)
+- Developed drugs for heart attacks 
+- Worked on many many many projects spanning ML, Hardware (RISCV/Processor Design), and Software
+- Got stuck at an airport in Germany for three days after losing my passport
 
 &nbsp;
 
-I am intensely curious about the world around me and want to make it better for everybody. I care to be an individual who builds important things even at the face of sweeping adversity with a resolve.
-
-&nbsp;
-
-For fun, I enjoy walking with people and learning about different life stories, playing and sometimes watching badminton and basketball, and trying to get better at chess.
+For fun, I enjoy reading, running, and traveling. 
 
 &nbsp;
