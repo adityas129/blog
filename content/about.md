@@ -18,7 +18,7 @@ Previously I:
 - Started multiple companies (failed once, somewhat worked out another time)
 - Developed drugs for heart attacks 
 - Worked on many many many projects spanning ML, Hardware (RISCV/Processor Design), and Software
-- Got stuck at an airport in Germany for three days after losing my passport (click here for more random things I've done)
+- Got stuck at an airport in Germany for three days after losing my passport ([click here](https://www.asharma.me/posts/random) to read more random things I've done)
 
 &nbsp;
 
