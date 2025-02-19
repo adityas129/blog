@@ -4,7 +4,7 @@ slug = "about"
 description = "about"
 +++
 
-I'm building and exploring in interfaces, financial infrastructure, AGI and consumer social. I owe much of my fun to my friends and UWaterloo. I am extremely excited about building important things that make the world better for everybody.
+I'm building and exploring in interfaces, financial infrastructure, AGI and consumer social. I am extremely excited about building important things that make the world better for everybody. 
 
 &nbsp;
 
