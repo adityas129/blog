@@ -11,7 +11,7 @@ I'm building and exploring in interfaces, financial infrastructure, AGI and cons
 Previously I:
 
 - Worked at Affirm, helping move frankly absurd amounts of money from one place to another on the Disbursements team
-- Studied computer engineering at UWaterloo, learning how to move bits and bytes to do things
+- Studied Computer Engineering at UWaterloo
     - Fun things I did during my time there included: starting and growing Socratica, going to many (and sometimes winning) hackathons, building self-driving (Watonomous) + solar car (Midnight Sun) software, trading + data science competitions, and eating a lot of Lazeez + Shinwa. 
 - Worked as employee #1 and led all things Engineering at Pareto, building and managing a team of 6
 - Built software across the stack (frontend, backend, data, infra, ml) at five different companies and labs
@@ -22,6 +22,6 @@ Previously I:
 
 &nbsp;
 
-For fun, I enjoy reading, running, and traveling. 
+For fun, I enjoy reading, sports (affinity twds runnings + racquet sports), playing with LLMs, and traveling. 
 
 &nbsp;
