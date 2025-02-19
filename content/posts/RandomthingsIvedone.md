@@ -2,7 +2,7 @@
 draft = false
 date = "1998-10-24"
 title = "Random Things I've done"
-slug = "posts" 
+slug = "random" 
 categories = []
 thumbnail = "{{ .Site.Params.thumbnail }}"
 description = "random things I've done"
