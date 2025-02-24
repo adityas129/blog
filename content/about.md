@@ -22,6 +22,6 @@ Previously I:
 
 &nbsp;
 
-For fun, I enjoy reading, sports (affinity twds runnings + racquet sports), playing with LLMs, and traveling. 
+For fun, I enjoy reading, sports (affinity twds runnings + racquet sports), playing the tabla, playing with LLMs, and traveling. 
 
 &nbsp;
