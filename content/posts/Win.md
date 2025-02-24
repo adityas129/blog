@@ -24,3 +24,4 @@ Cheeky title. It's a bit of a loaded question and one that changes over time. Cu
 8. Take risks
 9. Surround myself with really really good people who care and be the best friend/coworker/partner I can be. Show up the best way I can in those relationships.
 10. Be a force for good in the world.
+11. Lead my life with integrity, purpose, resolve and passion.
