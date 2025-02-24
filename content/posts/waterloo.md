@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 date = "2020-08-25"
 title = "Reflections of many years of school at Waterloo Pt. 1/N"
 slug = "loo"

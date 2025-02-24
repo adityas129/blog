@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 date = "2023-12-12"
 title = "Writing is hard"
 slug = "hard"
