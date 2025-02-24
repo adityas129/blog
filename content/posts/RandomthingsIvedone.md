@@ -8,7 +8,7 @@ thumbnail = "{{ .Site.Params.thumbnail }}"
 description = "random things I've done"
 +++
 
-Here's a list of random things I've done in no particular order:
+Here's a list of random side-quests I've embarked on in no particular order:
 
 - Went from 670 to 1400 in 3 months in Blitz Chess in three days bc I got bored 
 - Ran a marathon after running for like a year
@@ -21,5 +21,7 @@ Here's a list of random things I've done in no particular order:
 - Learnt Abacus 
 - At some point in my life played the harmonium, piano, tabla (probably what I am most proficient in at this point), drums
 - Crammed an entire course (and passed in uni) in 1.5 days. (I dont recommend this for things you actually want to learn but this was a required course for my program I had zero interest in)
+- Ate an entire pizza by myself in one sitting on a dare. 
+- Tried a four million scoville hot sauce in a hot sauce shop in Westfield Mall in SF (RIP)
 
 

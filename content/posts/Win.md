@@ -9,17 +9,18 @@ description = "How to win at life"
 +++
 
 
-How does one win at life?
+How does one win at life? 
 
 Cheeky title. It's a bit of a loaded question and one that changes over time. Currently, my answer to this is: 
 
 
-1) Work out every day
-2) Eat healthy
-3) Get good sleep
-4) Inculcate gratefulness
-7) Be disciplined
-8) Be persistent
-9) Work hard and follow through 
-10) Take risks
-11) Surround yourself with good people who give a damn
+1. Work out every day
+2. Eat healthy
+3. Get good sleep
+4. Inculcate gratefulness
+5. Be disciplined about my work/craft of choice
+6. Be persistent and unrelenting in my pursuit of my goals
+7. Work hard and follow through (both equally important)
+8. Take risks
+9. Surround myself with really really good people who care and be the best friend/coworker/partner I can be. Show up the best way I can in those relationships.
+10. Be a force for good in the world.
