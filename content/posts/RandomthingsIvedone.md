@@ -10,7 +10,7 @@ description = "random things I've done"
 
 Here's a list of random side-quests I've embarked on in no particular order:
 
-- Went from 670 to 1400 in 3 months in Blitz Chess in three days bc I got bored 
+- Went from 670 to 1400 in 3 months in Blitz Chess in three days bc I got bored (used to play chess before but then stopped playing for a while)
 - Ran a marathon after running for like a year
 - Slept at various airport multiple times to save money as a student. I have the art of sleeping in these situations down to a science. 
     - Not as a student but sleeping pods in CDMX has been my most enjoyable airport snooze experience. 
