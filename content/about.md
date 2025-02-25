@@ -4,7 +4,7 @@ slug = "about"
 description = "about"
 +++
 
-I'm building and exploring in interfaces, financial infrastructure, AGI and consumer social. I am extremely excited about building important things that make the world better for everybody. 
+I'm currently building and exploring in ML, interfaces, financial infrastructure, and consumer AI. I am extremely excited about building important things that make the world better for everybody. 
 
 &nbsp;
 

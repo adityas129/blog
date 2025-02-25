@@ -17,9 +17,8 @@ Questions that I struggle with/ponder often about. Some are profound, others mor
 * Will we ever get to a point computationally where alternate universes could be simulated? 
 * Is mathematics truly the language of the universe or rather or interpretation/explanation of it? To elaborate, how antifragile/failure-resilient is the modern mathematical system?
 * What are the key things people look for, when looking for meaning or get behind an ideology/vision? And how easily engineered could that be? 
-* What makes certain people soooo characteristic/magnetic?
 * Is a calm mind better or one with a bunch of crazy ideas? 
-* How should I best engineer my environment to optimize growth + development?
+* How should I best engineer my environment to optimize growth + development of self?
 * [What are my scales and what is the best way to practice my scales?] (https://marginalrevolution.com/marginalrevolution/2019/07/learn-like-an-athlete-knowledge-workers-should-train.html)
 * How do I manage information intake? 
 * What aspects of my identity are worth preserving? 
