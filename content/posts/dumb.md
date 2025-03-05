@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 date = "2020-08-25"
 title = "On being the dumbest person in the room"
 slug = "dumb"

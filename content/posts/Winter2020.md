@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = "2020-01-07"
 title = "Winter 2020"
 slug = "Winter2020" 

@@ -5,7 +5,7 @@ description = "Ponderin' & Musin' "
 +++
 
 
-Questions that I struggle with/ponder often about. Some are profound, others more tactical.
+Questions that I struggle with/ponder often about. Some are profound, others more tactical. 
 
 
 * How do I cultivate crystal-clear thinking?
@@ -22,7 +22,9 @@ Questions that I struggle with/ponder often about. Some are profound, others mor
 * [What are my scales and what is the best way to practice my scales?] (https://marginalrevolution.com/marginalrevolution/2019/07/learn-like-an-athlete-knowledge-workers-should-train.html)
 * How do I manage information intake? 
 * What aspects of my identity are worth preserving? 
-* How do I conquer the mind and it's primal needs? 
+* How do I conquer the mind and it's primal needs? Are they meant to be conquered? Is that what makes me human? 
+* How do we as a society evolve?
+* How is change made?
 * How do I rapidly iterate my understanding of a very niche area and become a domain expert? 
 * How should I increase my rate of learning as a developer? 
 * Is specialization in technical skills worth it or is being a generalist more aligned for my goals?

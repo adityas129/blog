@@ -17,6 +17,3 @@ Seldom, certain hard earned aphorisms that reveal how the world really works sur
 - Clarity of thought implies an observer/follower is able to observe/follow a behaviour without much work. Analogous to the phrase of "XYZ person makes it look so easy" used perhaps more often than not in sports commentary, the easier it is to translate, the more viral it gets.   
 
 - Deep down, I have come to believe that more powerful that the truths, the lies someone tells themselves is most telling about their outlook of life and character. Try to understand the lie. 
-
-
-

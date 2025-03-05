@@ -4,55 +4,31 @@ slug = "links"
 description = " interesting links"
 +++
 
- ***Note: This is a living document***
+ ***Note: This is a living document and content will change. Last updated: March 4th 2025 ***
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-
 
 
 Over the years, while exploring on the internet, I come across pages/sites that really captivate me and capture my curiosity. I wish to keep a list of all these places for future reference and for the world to see and explore: 
 
-* [Celine: How to Build a Biotech](https://www.celinehh.com/biotech)
-&nbsp;
+Cool blogs: 
 
-* [Tristan Hume: Cool Waterloo developer!](https://thume.ca/)
-&nbsp;
-
-* [Dan Wang: Lots of deep dives into interesting topics](https://danwang.co/)
-&nbsp;
-
-* [Paul Graham: for the uninitiated, dude who created YC and a really clear thinker](http://www.paulgraham.com/)
-
-* [Sam Altman: Somebody I admire highly for the way he thinks about things - it just makes sense lol](https://blog.samaltman.com/)
-
-* [Alex Guzey: Independant researcher who has all sorts of thinkpieces](https://guzey.com/)
-
-* [Chip Huyen: Prolific ML person - I really like her blogs](https://huyenchip.com/)
-
-* [Dan Romero: Startups holy grail resources](https://danromero.org/canon.html)
-&nbsp;
-
-* [Daniel Gross: Really really smart person with a super interesting life-story](https://dcgross.com/)
-
-* [Will Robbins: Runs Contrary - has  alot of posts on student entrepreneurship!](https://willrobbins.org/)
-<!-- * [Cool person with cool suggestions] (s) -->
-
-* [Eugene Wei: Reall awesome thinkpieces](https://www.eugenewei.com/)
-
-* [Oepn source Fun Concepts](https://www.notion.so/Books-f95c42ea1c6b4f67a6ad219f327ac402)
-
-
-* [Hot takes](https://pjrvs.com/articles)
-
-* [Nadia Eghbal: Really cool open source person](https://nadiaeghbal.com/)
-
-* [Philip Guo: Prolific Prof](http://www.pgbovine.net/)
-
-* [Absolutely amazing creative agency - their work is other worldly](https://activetheory.net/work)
-
-
-PS: If you are any of the people in the list above, I think y'all are very interesting people and I'd love to grab coffee :)
+[Speed Matters](https://jsomers.net/blog/speed-matters)
+[Are You Serious?](https://visakanv.substack.com/p/are-you-serious)
+[The Fools Who Dream](https://jzhao.xyz/posts/the-fools-who-dream)
+[Pain is Not the Unit of Effort](https://www.lesswrong.com/posts/bx3gkHJehRCYZAF3r/pain-is-not-the-unit-of-effort)
+[How to Finally Make Something](https://blog.scottstevenson.net/p/how-to-finally-make-something-a16c8db7ba2a?curius=1296%2C1523&hide_intro_popup=true)
+[How to Be Earnest](https://paulgraham.com/earnest.html?curius=1528)
+[How to Do Great Work](https://paulgraham.com/greatwork.html)
+[Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)    
+[You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+[Hypothesis](https://michaelrbock.com/hypothesis/)
+[Code-First vs Product-First](https://thezbook.com/code-first-vs-product-first)
+[Cultivating Agency](https://charlesyang.substack.com/p/cultivating-agency)
+[Quotes - Bret Victor](https://worrydream.com/#!/quotes)
+[Lines to Live By](https://www.notion.so/lines-to-live-by-5b69486bfc1a4483b64b1c3ebbfe5b9e)
+[Mental Ability and Higher Mental Processes](https://mast.queensu.ca/~murty/mental.pdf)

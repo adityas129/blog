@@ -92,7 +92,7 @@ pygmentsUseClasses = true # new add
     url = "questions"
 
 [[menu.main]]
-    name = "Links"
+    name = "Linkshelf"
     weight = 8
     url = "links"
 

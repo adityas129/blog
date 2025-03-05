@@ -7,6 +7,16 @@ description = "changelog"
 Changelog for the entreprenurial journey -> currently on the quest to build a consumer facing AI product
 
 
+### 3/5/2025
+
+many many updates! launched - hoorahhh!! it didn't go as well as we'd thought - less hoorah. upon thinking about it, here's some hypothesises we made that were proven wrong. 
+
+1) if u provide enough value, ppl don't care about privacy: turns out ppl do care - esp if u are a random company who have no credibility. 
+2) data exports would be fast: chatgpt and claude data exports were in fact really fast when we were playing around with it. they slowed down considerably afterwards - often taking a week; that killed us. 
+3) there's never realllly a solid answer for when u should pull the plug on a consumer thing. consumer has the cold-start problem and we weren't able to solve it/didn't want to resolve it. 
+
+taking these learnings and applying it to for next step. 
+
 ### 2/13/2025
 
 HIHI! Long time, so much has happened. It's hard to keep updated. To quickly catch you up: 
