@@ -6,6 +6,12 @@ description = "changelog"
 
 Changelog for the entreprenurial journey -> currently on the quest to build a consumer facing AI product
 
+### 3/18/2025
+
+Been a super busy past few weeks. Been busy building ideas in consumer and thinking about next-steps. 
+
+Back to the board. Having to practice a lot of mental resilience in the face of adversity. But focusing on keeping the main thing the main thing :) 
+
 
 ### 3/5/2025
 

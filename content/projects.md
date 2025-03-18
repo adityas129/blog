@@ -5,29 +5,47 @@ description = "projects"
 +++
 &nbsp;
 
-This is a non-exhaustive list of projects I have worked on and am proud of. These are out of date and I haven't updated these in a while (I'd reckon this is about 7.5% of all the projects I have worked on and roughly only capture **2017-2020** - there's a bunch more I've done since that I'll update soon). For listed projects here, some are shipped, others are not. Regardless, feel free to look around!
+This is a non-exhaustive list of projects I've worked on from **2017-present**. Some are in production, others were valuable learning experiences. Feel free to explore!
 &nbsp;
 
-* [Six Feet Away](https://sixfeet.chat/): Worked on this with five other folks to encourage and foster spontaneous conversations. Facebook is great but the activation energy it takes to start a conversation from scratch is way too high. Also, besides the green circle indicating they are active, there is no more insight into what friends are __ACTUALLY__ doing. With Six Feet Away, see what friends are doing, such as playing video games or working out, and join them.  
-* [moshimoshi](https://moshimoshi.chat/): Anonymouse message board with a new topic every 24h. The hope is to encourage folks to engage in more meaningful and thought-provoking conversations. You know, the ones where you walk away feeling more invigorated, energized and curious than before. Trying to simulate that online
+* [Kore](https://my-kore.com/): A personal analytics platform that connects your LLM interactions and browsing history to uncover patterns about yourself. Uses data analysis to surface unconscious behaviors and interests, helping you better understand your digital habits while maintaining privacy. Discovered some surprising things about myself in the process. Also has a matching component where we do embeddings to match you to someone who has very similar interests!
 &nbsp;
 
-* Emotion: Built an emotion detector on top of the [Emotiv EEG Headset](https://www.emotiv.com/epoc/). To be honest, it wasn't as good as I hoped since there were hardware constraints. Also, Thomas Reardon (CTRL-Labs dude) describes EEG as trying to have a conversation while in a stadium of 50,000 people yelling. However, I'm still super interested and bullish about Brain Computer Interfaces. If you know something I don't, do share!
+* [Socratica](https://socratica.info/): Started and helped scale community of makers, builders, and creators that hosts weekly co-working sessions. Handled everything from establishing vision, recruiting, building the community to logistics (yay for food runs in -40; all for the love of making). Socratica has since expanded to 40 cities (and 6 continents) across the world and counting, creating spaces where people collaborate on projects they care about with people rallying to support them! The feeling of having someone recognize me and telling me Socratica changed their lives never gets old.  
 &nbsp;
 
-* [Prufer](https://prufer.io/): Worked on trying to make Powerpoints and presentations suck less for a little while. The hope was to do what Notion did to Word for presentations. Unfortunately, didn't finish building the entire platform (found that [another company](https://pitch.com/) was ahed when building this) but was a great learning experience regardless! 
-
-* [Nearer](https://github.com/adityas129/298): Nearby Object Detector for Bicycles using Ultrasonic sensors. Had a fun time building this project as I learned about the entire lifecycle of building hardware from designing a schematic to designing PCBs to soldering and developing the software
+* [Pipelined Processor](https://github.com/adityas129/pipelined-processor): Built a complete pipelined processor in Verilog from scratch with data hazard detection, forwarding mechanisms, and control hazard handling. Went deep on computer architecture principles and hardware description. Debugging hardware is a different beast entirely.
 &nbsp;
 
-* [LabelLearn](https://devpost.com/software/doway): This project aims to enable a labeller to be consistent with both their fellow labelers and their past self while seeing the live class distribution of the dataset. I mainly worked on the web application and infrastructure for the project. We ended up winning our track (category) price and the overall best hack out of 200+ hacks @ HackMIT 2019!
+* [PRISM](https://github.com/prism-fydp): A decentralized publishing platform giving writers ownership of their ideas without institutional overhead. Built on IPFS and cryptocurrency to connect authors directly with readers while preserving anonymity. Challenging the assumption that content platforms need centralized control. Navigating the tradeoffs between user experience and true decentralization made me appreciate both the promise and complexity of Web3.
 &nbsp;
 
-* [Sundae](https://devpost.com/software/sundae): A text based journaling chatbot that uses NLP and sentimental analysis to cheer you up. I worked on the NLP portion and the recommendation engine. We ended up winning the Best Domain price @ EngHack 2019!
+* [Six Feet Away](https://sixfeet.chat/): Built a platform for spontaneous online interactions by having an always open tab that you can "drop-into" anytime you'd like to talk to people. Shows what friends are actually doing (gaming, working out, studying) to facilitate natural connection points online. Traditional social networks require too much effort to start conversations - we wanted to fix that and bring the barrier to entry for meaningful social interactions down.
 &nbsp;
 
-* [Messiah](https://devpost.com/software/messiah-ngp1x8): Messiah is an oracle management interface that developers can interact with to get the most reliable data from blockchains. I contributed to contract development and the frontend.
+* [ECE 2022 Class Profile](https://ece2022profile.github.io/report.pdf): Collaborated on data collection, analysis, visualization and marketing for the Electrical & Computer Engineering class profile. Transformed raw survey data into meaningful insights about the student experience, career pathways, and program outcomes. Working with anonymized data to tell authentic stories about real people is a challenging balance - and surprisingly addictive. Such a fun way to cap off my time at UWaterloo.
 &nbsp;
 
-* [MyoVision](https://devpost.com/software/myovision): A workout assister that uses Myo and statistics to improve your posture while also serving as a tracker of your activity. I worked on the interfacing with Myo API + analytics. We ended up winning Most Innovative Wolfram Alpha award!
+* [moshimoshi](https://moshimoshi.chat/): An anonymous message board with topics that rotate every 24 hours. Designed to encourage meaningful conversations instead of superficial interactions. Trying to recreate those energizing in-person discussions where you walk away feeling more curious than before.
+&nbsp;
+
+* [Emotion]: A neural interface experiment using the [Emotiv EEG Headset](https://www.emotiv.com/epoc/) for emotion detection. Hit hardware limitations (as Thomas Reardon aptly put it, EEG is like "having a conversation in a stadium of 50,000 screaming fans"), but gained valuable insights into Brain-Computer Interfaces. Still bullish on the technology's potential.
+&nbsp;
+
+* [Prufer](https://prufer.io/): A presentation platform built to do for PowerPoint what Notion did for Word. Created a more flexible framework for visual communication without the rigidity of traditional slideware. [Pitch](https://pitch.com/) beat us to market, but the experience in product design was worth it.
+&nbsp;
+
+* [Nearer](https://github.com/adityas129/298): A bicycle proximity detection system using ultrasonic sensors. Went through the full hardware lifecycle from schematic design to PCB layout to soldering and firmware. Learned that hardware is indeed hard, but incredibly satisfying when it works.
+&nbsp;
+
+* [LabelLearn](https://devpost.com/software/doway): A platform for consistent data labeling with real-time visualization of dataset distributions. Built the web application and infrastructure. Won our track and best overall hack at HackMIT 2019 among 200+ submissions. Turns out machine learning is only as good as your labels.
+&nbsp;
+
+* [Sundae](https://devpost.com/software/sundae): A journaling chatbot using NLP and sentiment analysis to provide emotional support. Developed the NLP components and recommendation engine. Won Best Domain at EngHack 2019. Fascinating to see how simple NLP techniques can create meaningful interactions.
+&nbsp;
+
+* [Messiah](https://devpost.com/software/messiah-ngp1x8): An oracle management interface giving developers reliable access to blockchain data. Contributed to contract development and frontend implementation. Learned that blockchain's biggest challenge isn't the chain itself, but connecting it reliably to the outside world.
+&nbsp;
+
+* [MyoVision](https://devpost.com/software/myovision): A workout assistant using the Myo armband and statistical analysis to improve exercise form and track activity. Developed the Myo API integration and analytics. Won Most Innovative Wolfram Alpha award. The project taught me how much untapped potential exists in wearable tech.
 &nbsp;

@@ -4,7 +4,7 @@ slug = "links"
 description = " interesting links"
 +++
 
- ***Note: This is a living document and content will change. Last updated: March 4th 2025 ***
+ *** Note: This is a living document and content will change. Last updated: March 4th 2025 ***
 &nbsp;
 &nbsp;
 &nbsp;

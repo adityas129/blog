@@ -25,6 +25,9 @@ Questions that I struggle with/ponder often about. Some are profound, others mor
 * How do I conquer the mind and it's primal needs? Are they meant to be conquered? Is that what makes me human? 
 * How do we as a society evolve?
 * How is change made?
+* How do gender roles evolve over time as AI becomes more sentient?
+* What would life without borders look like? 
+* Can we speedrun evolution?
 * How do I rapidly iterate my understanding of a very niche area and become a domain expert? 
 * How should I increase my rate of learning as a developer? 
 * Is specialization in technical skills worth it or is being a generalist more aligned for my goals?
