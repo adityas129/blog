@@ -19,6 +19,7 @@ This is a non-exhaustive list of projects I've worked on from **2017-present**. 
 * [PRISM](https://github.com/prism-fydp): A decentralized publishing platform giving writers ownership of their ideas without institutional overhead. Built on IPFS and cryptocurrency to connect authors directly with readers while preserving anonymity. Challenging the assumption that content platforms need centralized control. Navigating the tradeoffs between user experience and true decentralization made me appreciate both the promise and complexity of Web3.
 &nbsp;
 
+
 * [Six Feet Away](https://sixfeet.chat/): Built a platform for spontaneous online interactions by having an always open tab that you can "drop-into" anytime you'd like to talk to people. Shows what friends are actually doing (gaming, working out, studying) to facilitate natural connection points online. Traditional social networks require too much effort to start conversations - we wanted to fix that and bring the barrier to entry for meaningful social interactions down.
 &nbsp;
 
@@ -32,6 +33,9 @@ This is a non-exhaustive list of projects I've worked on from **2017-present**. 
 &nbsp;
 
 * [Prufer](https://prufer.io/): A presentation platform built to do for PowerPoint what Notion did for Word. Created a more flexible framework for visual communication without the rigidity of traditional slideware. [Pitch](https://pitch.com/) beat us to market, but the experience in product design was worth it.
+&nbsp;
+
+* [Fun lowlevel engineering]: For fun, in the past, I have built an tiny OS from scratch and a compiler from scratch. Programmed many FPGAs and built and fried many circuits. Built audio-systems and amplifiers and the like. 
 &nbsp;
 
 * [Nearer](https://github.com/adityas129/298): A bicycle proximity detection system using ultrasonic sensors. Went through the full hardware lifecycle from schematic design to PCB layout to soldering and firmware. Learned that hardware is indeed hard, but incredibly satisfying when it works.
