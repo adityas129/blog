@@ -8,7 +8,7 @@ Changelog for the entreprenurial journey -> currently on the quest to build a co
 
 ### 3/18/2025
 
-Been a super busy past few weeks. Been busy building ideas in consumer and thinking about next-steps. 
+Been a super busy past few weeks. Been busy building ideas in consumer and thinking about next-steps and talking to new collaborators (V and I parted ways in the most amicable of terms due to having different visions for company-building)
 
 Back to the board. Having to practice a lot of mental resilience in the face of adversity. But focusing on keeping the main thing the main thing :) 
 

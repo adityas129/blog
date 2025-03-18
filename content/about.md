@@ -10,7 +10,7 @@ I'm currently building and exploring ideas and products in ML, interfaces, finan
 
 &nbsp;
 
-Previously I:
+### Previously I:
 
 - Worked at Affirm, helping move frankly absurd amounts of money from one place to another on the Disbursements team
 - Studied Computer Engineering at UWaterloo

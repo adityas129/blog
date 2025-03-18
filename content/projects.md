@@ -5,7 +5,7 @@ description = "projects"
 +++
 &nbsp;
 
-This is a non-exhaustive list of projects I've worked on from **2017-present**. Some are in production, others were valuable learning experiences. Feel free to explore!
+This is a non-exhaustive (read VERY non-exhaustive) list of projects I've worked on over time. Some are in production, many didn't survive but were valuable learning experiences. Feel free to explore!
 &nbsp;
 
 * [Kore](https://my-kore.com/): A personal analytics platform that connects your LLM interactions and browsing history to uncover patterns about yourself. Uses data analysis to surface unconscious behaviors and interests, helping you better understand your digital habits while maintaining privacy. Discovered some surprising things about myself in the process. Also has a matching component where we do embeddings to match you to someone who has very similar interests!
