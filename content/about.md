@@ -25,6 +25,8 @@ I'm currently building and exploring ideas and products in ML, interfaces, finan
 
 For fun, I enjoy reading, sports (affinity twds runnings + racquet sports), playing the tabla, playing with LLMs, and traveling. 
 
-I love hearing from people. Many of my friends, collaborators and co-conspirators in projects/companies have come from the internet. So pls, don't hesitate to reach out if you think we would vibe. The [contact tab](https://www.asharma.me/contact/) is just a few short internet steps away
+### I love hearing from people through here. 
+
+Many of my friends, closest collaborators and co-conspirators in projects/companies have come from the internet. So pls, don't hesitate to reach out if you think we would vibe. The [contact tab](https://www.asharma.me/contact/) is just a few short internet steps away
 
 &nbsp;
