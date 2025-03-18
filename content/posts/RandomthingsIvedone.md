@@ -24,5 +24,6 @@ Here's a list of random side-quests I've embarked on in no particular order:
 - Ate an entire pizza by myself in one sitting on a dare. 
 - Tried a four million scoville hot sauce in a hot sauce shop in Westfield Mall in SF (RIP)
 - 24 hr fasts
+- Played provincially in badminton (got bronze in singles provincially twice in Grade 10 and 12), and cricket in Alberta
 
 
