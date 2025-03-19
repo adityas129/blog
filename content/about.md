@@ -6,7 +6,7 @@ description = "about"
 
 Howdy - nice to see you here. I'm glad you stopped by!
 
-I'm currently building and exploring ideas and products in ML, interfaces, financial infrastructure, and consumer AI. I am extremely excited about building important things that make the world better for everybody. Currently, that most likely takes the form of starting a company for me. 
+I'm currently building and exploring ideas and products in ML, interfaces, financial infrastructure, and consumer AI. I am extremely excited about building important things that make the world radically better for everybody. Currently, that most likely takes the form of starting a company for me. 
 
 &nbsp;
 
