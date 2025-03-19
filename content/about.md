@@ -21,9 +21,10 @@ I'm currently building and exploring ideas and products in ML, interfaces, finan
 - Worked on many many many projects spanning ML, Hardware (RISCV/Processor Design), and Software
 - Got stuck at an airport in Germany for three days after losing my passport ([click here](https://www.asharma.me/posts/random) to read more random side-quests I've done)
 
-&nbsp;
 
 For fun, I enjoy reading, sports (affinity twds runnings + racquet sports), playing the tabla, playing with LLMs, and traveling. 
+
+&nbsp;
 
 ### I love hearing from people through here. 
 
