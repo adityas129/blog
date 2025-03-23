@@ -5,13 +5,13 @@ description = "projects"
 +++
 &nbsp;
 
-This is a non-exhaustive (read VERY non-exhaustive because many don't end up getting done because I lost interest or lacked time/resources) list of projects I've worked on over time. Some are in production, many didn't survive but were valuable learning experiences. Feel free to explore!
+This is a non-exhaustive (read VERY non-exhaustive because many don't end up getting done because I lost interest or lacked time/resources and some in stealth mode ) list of projects I've worked on over time. Some are in production, many didn't survive but were valuable learning experiences. Feel free to explore!
 &nbsp;
 
 * [Kore](https://my-kore.com/): A personal analytics platform that connects your LLM interactions and browsing history to uncover patterns about yourself. Uses data analysis to surface unconscious behaviors and interests, helping you better understand your digital habits while maintaining privacy. Discovered some surprising things about myself in the process. Also has a matching component where we do embeddings to match you to someone who has very similar interests!
 &nbsp;
 
-* [Socratica](https://socratica.info/): Started and helped scale community of makers, builders, and creators that hosts weekly co-working sessions. Handled everything from establishing vision, recruiting, building the community to logistics (yay for food runs in -40; all for the love of making). Socratica has since expanded to 40 cities (and 6 continents) across the world and counting, creating spaces where people collaborate on projects they care about with people rallying to support them! The feeling of having someone recognize me and telling me Socratica changed their life never gets old.  
+* [Socratica](https://socratica.info/): Started and helped scale community of makers, builders, and creators that hosts weekly co-working sessions. Initially worked on establishing vision, recruiting, building the community to logistics (yay for food runs in -40; all for the love of making). Socratica has since (after my time) expanded to 40 cities (and 6 continents) across the world and counting, creating spaces where people collaborate on projects they care about with people rallying to support them! All thanks to the wonderful people who are involved with flourishing the [org](https://www.socratica.info/people). The feeling of having someone recognize me and telling me Socratica changed their life is a true blessing (although I do think credit to me is unfair - it's truly a labor of love from all the lovely people involved). 
 
 * [Pipelined Processor](https://github.com/adityas129/pipelined-processor): Built a complete pipelined processor in Verilog from scratch with data hazard detection, forwarding mechanisms, and control hazard handling. Went deep on computer architecture principles and hardware description. Debugging hardware is a different beast entirely.
 &nbsp;
