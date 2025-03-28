@@ -1,14 +1,12 @@
 +++
 draft = false
 date = "2025-03-28"
-title = "On trust"
+title = "Opinionated thoughts on trust"
 slug = "trust"
 categories = []
 thumbnail = "{{ .Site.Params.thumbnail }}"
 description = "trust"
 +++
-
-# Opinionated Thoughts on Trust
 
 Recently the topic of trust has been on my mind. Trust seems to be the most basic/atomic construct of value at all levels of organization:
 
