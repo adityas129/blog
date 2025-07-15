@@ -4,7 +4,7 @@ slug = "changelog"
 description = "changelog"
 +++
 
-Changelog for the entreprenurial journey -> currently on the quest to build a consumer facing AI product
+Changelog for the entreprenurial journey
 
 ### 7/15/2025
 
