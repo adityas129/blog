@@ -16,7 +16,10 @@ It's been a minute. Lots of learnings. Here's the quick rundown of the past few 
 
 It's been hard to regain momentum with a lot of start/stops but committing to getting into a cadence. So using this changelog as a catalog/thought-partner/accountability buddy/motivational tool and then some. But for now, I'm happy with just being back on here and posting!! 
 
-I hope to ship two silly projects by the end of the week. I think the hope has been to find an area or a set of people that I'm obsessed to solve for. To the point that I can maniacally build and continue to build for. 
+I hope to ship two silly projects by the end of the week. I think the hope has been to find an area or a set of people that I'm obsessed to solve for. To the point that I can maniacally build and continue to build for. It's surprisingly hard. So I'm hoping mini-projects can help spur that. If that's the hope, I feel like many iterations can help. To that effect, I hope to build/do things to get me that confidence. Current the most atomic unit for progress there is to build and ship ideas. 
+
+Idea 1: Launch max Wed evening
+Idea 2: Launch max Sun evening
 
 
 ### 3/18/2025
