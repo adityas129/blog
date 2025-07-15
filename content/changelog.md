@@ -6,6 +6,19 @@ description = "changelog"
 
 Changelog for the entreprenurial journey -> currently on the quest to build a consumer facing AI product
 
+### 7/15/2025
+
+It's been a minute. Lots of learnings. Here's the quick rundown of the past few months. 
+
+- Started and seriously worked on another idea with a friend. Was fun to work on but ended up parting ways with it. 
+- Had some person stuff come up so decided to slow down for a month or so to tend to that garden
+- Back at it
+
+It's been hard to regain momentum with a lot of start/stops but committing to getting into a cadence. So using this changelog as a catalog/thought-partner/accountability buddy/motivational tool and then some. But for now, I'm happy with just being back on here and posting!! 
+
+I hope to ship two silly projects by the end of the week. I think the hope has been to find an area or a set of people that I'm obsessed to solve for. To the point that I can maniacally build and continue to build for. 
+
+
 ### 3/18/2025
 
 Been a super busy past few weeks. Been busy building ideas in consumer and thinking about next-steps and talking to new collaborators (V and I parted ways in the most amicable of terms due to having different visions for company-building)
