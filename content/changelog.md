@@ -6,6 +6,16 @@ description = "changelog"
 
 Changelog for the entreprenurial journey
 
+### 7/21/2025
+
+UGGGHHHHHHHHH 
+
+Too ambitous a target set again. The real ones know ... (or the ones who read all of the below), this is my Achilles heel. I need to be better at being realistic. Yet, I'm persevering. Turns out, training and finetuning and hosting models is not as trivial as I thought. Even still, persevering. 
+
+And humbling myself. Meta Learning on estimation. I'm allowed to be wrong on estimates. That's why they are estimates. I'm not allowed and it's bad practice to be wrong if I look at things from the lens of handwavy arguments. 
+
+Yet, new timeline is end of this week for both projects. No matter how embarrased and half-baked it is, I will post it here and have some semblance of a product. On the 25th. I will do all it takes to get there and really scope out my work here. 
+
 ### 7/15/2025
 
 It's been a minute. Lots of learnings. Here's the quick rundown of the past few months. 
