@@ -16,6 +16,8 @@ And humbling myself. Meta Learning on estimation. I'm allowed to be wrong on est
 
 Yet, new timeline is end of this week for both projects. No matter how embarrased and half-baked it is, I will post it here and have some semblance of a product. On the 25th. I will do all it takes to get there and really scope out my work here. 
 
+N.B. If you look not too far away and read my blog on trust, you realize how annoying this is. This is not lost on me. Perhaps, that is why I characterize this habit of mine as an achiles heel. It's a careless approach/hack at ambition. My ambitions/estimation of my abilities sometimes overxtends their true FMV. Yet this in and of itself is a learning. 
+
 ### 7/15/2025
 
 It's been a minute. Lots of learnings. Here's the quick rundown of the past few months. 
