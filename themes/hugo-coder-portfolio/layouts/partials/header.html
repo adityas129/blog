@@ -18,15 +18,6 @@
           {{ end }}
         {{ end }}
         
-      </ul>
-    </label>
-    
-    <!-- Day/Night Mode Toggle -->
-    <div class="theme-toggle">
-      <a class="theme-toggle-link" href="#" id="theme-toggle-btn" aria-label="Toggle dark mode">
-        <span class="theme-toggle-icon">☀️</span>
-      </a>
-    </div>
         {{ if hugo.IsMultilingual }}
           {{ $node := . }}
           {{ .Scratch.Set "separator" true }}
@@ -53,5 +44,12 @@
         {{ end }}
       </ul>
     </label>
+    
+    <!-- Day/Night Mode Toggle -->
+    <div class="theme-toggle">
+      <a class="theme-toggle-link" href="#" id="theme-toggle-btn" aria-label="Toggle dark mode">
+        <span class="theme-toggle-icon">☀️</span>
+      </a>
+    </div>
   </section>
 </nav>
