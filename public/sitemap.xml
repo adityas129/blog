@@ -2,52 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/dumb/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/posts/trust/</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/bucketlist/</loc>
-    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/posts/win/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/tyty/</loc>
+    <loc>//localhost:1313/posts/26/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/post-socratica-commencement/</loc>
+    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/twitter/</loc>
+    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/tyty/</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/x/</loc>
+    <loc>//localhost:1313/posts/x/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/interact-application/</loc>
-    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/focus/</loc>
+    <loc>//localhost:1313/posts/focus/</loc>
     <lastmod>2020-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/winter2020/</loc>
-    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/posts/</loc>
+    <loc>//localhost:1313/posts/posts/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/posts/random/</loc>
+    <lastmod>1998-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/links/</loc>
+    <loc>//localhost:1313/changelog/</loc>
   </url><url>
-    <loc>/meditations/</loc>
+    <loc>//localhost:1313/contact/</loc>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>//localhost:1313/links/</loc>
   </url><url>
-    <loc>/questions/</loc>
+    <loc>//localhost:1313/meditations/</loc>
   </url><url>
-    <loc>/reading/</loc>
+    <loc>//localhost:1313/projects/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/questions/</loc>
+  </url><url>
+    <loc>//localhost:1313/reading/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

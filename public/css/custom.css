@@ -1,0 +1,17 @@
+.profile-image {
+    border-radius: 8px !important; /* Slight rounding of corners */
+    width: 300px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: contain; /* Ensure image isn't cropped */
+}
+
+.avatar img {
+    border-radius: 0 !important; /* Remove circular cropping */
+    width: 300px !important;
+    height: auto !important;
+    object-fit: contain !important;
+}
+
+.rounded img {
+    border-radius: 0 !important;
+} 

@@ -2,6 +2,137 @@ body{
   background-image: url("https://www.designbolts.com/wp-content/uploads/2012/12/Cubes-White-Seamless-Pattern.jpg")
 }
 
+/* Theme Toggle Button */
+.theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  z-index: 1000;
+}
+
+.theme-toggle-link {
+  text-transform: uppercase;
+  font-size: 1.6rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  color: inherit;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(10px);
+}
+
+.theme-toggle-link:hover {
+  text-decoration: none;
+  background: rgba(0, 0, 0, 0.9);
+  transform: scale(1.05);
+}
+
+.theme-toggle-icon {
+  font-size: 1.4rem;
+}
+
+/* Dark Mode Styles */
+body.dark-mode {
+  background-image: none;
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+body.dark-mode .navigation {
+  background-color: #2d2d2d;
+}
+
+body.dark-mode .navigation-title {
+  color: #ffffff;
+}
+
+body.dark-mode .navigation-link {
+  color: #cccccc;
+}
+
+body.dark-mode .navigation-link:hover {
+  color: #ffffff;
+}
+
+body.dark-mode .theme-toggle-link {
+  color: #333333;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+body.dark-mode .theme-toggle-link:hover {
+  color: #000000;
+  background: rgba(255, 255, 255, 1);
+}
+
+/* Dark mode for main content */
+body.dark-mode .centered {
+  color: #ffffff;
+}
+
+body.dark-mode .about h1,
+body.dark-mode .about h2 {
+  color: #ffffff;
+}
+
+body.dark-mode .social-list a {
+  color: #cccccc;
+}
+
+body.dark-mode .social-list a:hover {
+  color: #ffffff;
+}
+
+/* Custom avatar styling */
+.avatar img {
+  width: 35rem;
+  height: auto;
+  border-radius: 25%;
+  box-shadow: 0 0 40px rgba(0,0,0,0.15);
+  transition: all 0.4s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.avatar img:hover {
+  box-shadow: 0 0 50px rgba(0,0,0,0.25);
+  transform: scale(1.02);
+}
+
+.avatar {
+  position: relative;
+  display: inline-block;
+}
+
+.avatar::before {
+  content: '';
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  right: -20px;
+  bottom: -20px;
+  background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 70%);
+  border-radius: 30px;
+  z-index: 0;
+  pointer-events: none;
+}
+
+@media only screen and (max-device-width: 768px) {
+  .avatar img {
+    width: 20rem;
+    border-radius: 25%;
+  }
+  
+  .avatar::before {
+    top: -15px;
+    left: -15px;
+    right: -15px;
+    bottom: -15px;
+    border-radius: 20px;
+  }
+}
+
 #home {
     clip-path: url(#cache);
   }

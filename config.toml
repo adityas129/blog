@@ -3,8 +3,11 @@ title = "Adi Sharma" # Site title.
 theme = "hugo-coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "en" # The default content language.
+ignoreLogs = ['warning-goldmark-raw-html']
 googleAnalytics = "UA-149602680-2"
-paginate = 30 # Default number of pages per page in pagination.
+disqusShortname = ""
+[pagination]
+  pagerSize = 30 # Default number of pages per page in pagination.
 
 pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
