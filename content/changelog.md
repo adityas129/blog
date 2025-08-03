@@ -6,6 +6,20 @@ description = "changelog"
 
 Changelog for the entreprenurial journey
 
+
+### 8/2/2025
+
+https://milan-2qhe.vercel.app/
+
+we got 'er done. not fully functional but So many lessons to learn here.
+1. It always takes longer than it should, so triple time by defaultat the same time 
+2. be aggressive with timelines but have a scrappy version of an action plan and use that to govern timelines
+3. Progress is better than perfection.
+4. Use external accountability. 
+5. The basics of adi protocol. Don't work from home. Don't use social media in the morning or the afternoon. Workout first thing in the morning. Eat a good amount of food. Hydrate. Get good sleep. Decide on the next day's plan the night before.
+
+At the same time, don't be too hard on yourself.I have a tendency to go very hard on myself and forget to give myself grace. That can lead to a weird situation where I'm not able to do work because I'm being too hard on myself and avoiding the issues.
+
 ### 7/21/2025
 
 UGGGHHHHHHHHH 
